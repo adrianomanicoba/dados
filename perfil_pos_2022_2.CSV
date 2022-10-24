@@ -1,0 +1,25 @@
+data_hora,idade,genero,graduacao,tipo_curso,local_residencia,anos_formado,anos_experiencia,outra_graduacao,outra_pos,infraestrutura,localizacao,autoavaliacao
+10/17/2022 19:08:07,29,Masculino,transporte_terrestre,tecnologo,guarulhos    ,1,3,Sim,Nao,5,5,5
+10/17/2022 19:05:49,30,Feminino,administracao,bacharelado,guarulhos    ,2,10,Sim,Nao,4,4,3
+10/17/2022 19:37:07,40,Masculino,logistica  ,tecnologo,guarulhos    ,28,14,Nao,Sim,5,4,3
+10/17/2022 19:12:50,22,Masculino,administracao,bacharelado,itaquaquecetuba    ,1,4,Nao,Nao,5,2,4
+10/17/2022 19:09:06,39,Masculino,engenharia,bacharelado,itaquaquecetuba    ,2,16,Nao,Nao,4,3,3
+10/24/2022 14:14:17,33,Feminino,logistica  ,tecnologo,itaquaquecetuba    ,6,8,Nao,Nao,4,2,3
+10/18/2022 13:09:54,29,Feminino,secretariado,tecnologo,itaquaquecetuba    ,8,13,Sim,Nao,5,3,3
+10/17/2022 19:08:45,45,Masculino,logistica  ,tecnologo,itaquaquecetuba    ,1,20,Nao,Nao,5,5,3
+10/17/2022 19:05:54,36,Feminino,logistica  ,tecnologo,mogi_das_cruzes,1,15,Nao,Nao,3,4,3
+10/17/2022 18:59:54,28,Feminino,logistica  ,tecnologo,osasco,5,5,Sim,Nao,3,3,3
+10/17/2022 19:10:30,30,Masculino,engenharia,bacharelado,sao_paulo,4,12,Sim,Nao,4,2,3
+10/17/2022 19:08:25,26,Masculino,engenharia,bacharelado,sao_paulo,1,3,Nao,Nao,5,3,3
+10/17/2022 7:27:49,40,Masculino,logistica  ,tecnologo,sao_paulo,2,20,Nao,Nao,3,2,3
+10/17/2022 19:07:17,40,Masculino,logistica  ,tecnologo,sao_paulo,2,20,Nao,Nao,3,2,3
+10/17/2022 19:47:45,26,Feminino,logistica  ,tecnologo,sao_paulo,2,3,Nao,Nao,4,3,3
+10/17/2022 19:06:36,25,Feminino,administracao,bacharelado,suzano  ,1,1,Nao,Nao,4,1,3
+10/17/2022 23:03:29,36,Feminino,administracao,bacharelado,suzano  ,24,12,Sim,Nao,4,2,3
+10/17/2022 19:05:28,37,Masculino,gestao_comercial,tecnologo,suzano  ,4,4,Nao,Nao,5,3,3
+10/17/2022 19:06:20,23,Masculino,gestao_producao,tecnologo,suzano  ,1,4,Nao,Nao,5,3,3
+10/17/2022 19:19:29,31,Feminino,logistica  ,tecnologo,suzano  ,4,9,Nao,Nao,3,4,4
+10/17/2022 19:06:26,31,Feminino,logistica  ,tecnologo,suzano  ,4,9,Nao,Nao,3,4,4
+10/17/2022 19:20:41,48,Masculino,processos_soldagem,tecnologo,suzano  ,3,34,Nao,Nao,4,4,4
+10/17/2022 19:08:20,22,Feminino,administracao,bacharelado,suzano  ,0,5,Nao,Nao,3,5,4
+10/17/2022 13:14:18,32,Masculino,administracao,bacharelado,suzano  ,4,10,Sim,Nao,4,5,4
