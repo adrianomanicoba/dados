@@ -1,4 +1,4 @@
-Entrega,Qtd itens,Valor_pedido,cliente,Cidade,Avaliacao,Km_percorrida,volumes transportados,indice_ociosidade
+Entrega,Qtd_itens,Valor_pedido,cliente,Cidade,Avaliacao,Km_percorrida,volumes_transportados,indice_ociosidade
 1,306,808.47 ,1,Suzano,regular,74,16,37
 2,144,1315.98 ,1,Suzano,ruim,76,7,46
 3,252,714.19 ,1,Suzano,regular,87,11,42
