@@ -1,4 +1,4 @@
-Customer,Type of Customer,Items,Net Sales,Method of Payment,Gender,Marital Status,Age
+Customer,Type_of_Customer,Items,Net_Sales,Method_of_Payment,Gender,Marital_Status,Age
 1,Regular,1,39.50,Discover,Male,Married,32
 2,Promotional,1,102.40,Proprietary Card,Female,Married,36
 3,Regular,1,22.50,Proprietary Card,Female,Married,32
