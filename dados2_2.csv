@@ -1,29 +1,29 @@
-Indicador,2019,2020,2021,2022,2023,Comentário
-1.1 Índice de Transparência, Gestão Democrática e Participativa (ITGP),Indisponível,Indisponível,Indisponível,40,47619048,45,23809524,Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-1.2. Índice de Envolvimento Discente em Órgãos Colegiados (IED),57,65517241,70,04716981,68,79120879,61,99304751,48,44559585,
-1.3/3.2 Evolução da Quantidade de Parcerias com os Arranjos Produtivos e Sociais (EPAPS),20,40816327,-28,81355932,-45,23809524,60,86956522,-16,21621622,
-2.1. Índice de Permanência (IP),78,14939759,86,93765009,79,4559549,69,41903427,66,33,
-2.2. Índice de êxito (IE),Indisponível,43,82220182,51,40361406,37,20273134,40,75,
-2.3 Índice de Participação dos Alunos no Mundo do Trabalho (PAMT),2,554994153,0,684734831,1,33348839,10,75166508,4,660479948,
-2.4 Índice de Participação dos Egressos no Mundo do Trabalho (PEMT),39,17050691,36,84210526,29,41176471,41,4893617,33,33333333,
-3.1 Índice de Satisfação dos Públicos de Interesse com a Comunicação Institucional (ISPICI),84,77498246,86,22809714,61,68152475,65,45678674,82,63833835,
-3.3 Índice de Internacionalização (IndI),447,3684211,-96,15384615,150,400,-12,
-4.1 Percentual de PPCs com Curricularização da Pesquisa e Extensão (CPE),,,,,,Este indicador não estava sendo coletado em razão da dificuldade de mensurar a pesquisa e a extensão em conjunto, resultando no desmembramento deste indicador em dois novos indicadores (CPesq e CExt), definidos por meio da Portaria IFSP nº 2218/2023.
-4.2 Percentual de PPCs com Curricularização da Pesquisa (CPesq),,,,75,34246575,75,34246575,Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-4.3 Percentual de PPCs com Curricularização da Extensão (CExt),,,,5,479452055,100,Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-5.1 Percentual de processos atendidos por sistema integrado (PASI),,,,,,Devido à transformação digital no Governo Federal e à aceleração na utilização de processos eletrônicos, ocorrências impulsionadas em grande medida pela pandemia da Covid-19, todos os processos passaram a ser realizados no formato digital, resultando na obsolescência deste indicador que se transformou em dois novos indicadores (EUPE e IDCD), definidos por meio da Portaria IFSP nº 2218/2023.
-5.2 Índice Geral de Governança (IGG),,,48,3,,41,21,Não foram publicados, pelo TCU, dados dos anos de 2019, 2020 e 2022.
-5.3 Evolução na Utilização dos Processos Eletrônicos (EUPE),116,0145665,38,13626866,34,69753916,41,94463474,27,39763743,
-5.4 Incremento da Disseminação da Cultura Digital (IDCD),Indisponível,Indisponível,Indisponível,10,8956602,-2,955870108,Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-6.1 Índice de qualidade de vida dos servidores (IQVS),59,95980348,17,30939716,12,84484661,70,2553941,41,53914393,
-6.2 Índice de Satisfação dos Servidores no Trabalho (ISST),Indisponível,95,79,19720768,74,72873644,92,77195519,"Não foi possível mapear os anos anteriores a 2020, pois a variável considera um índice de respostas do
+Indicador;2019;2020;2021;2022;2023;Comentário
+1.1 Índice de Transparência, Gestão Democrática e Participativa (ITGP);Indisponível;Indisponível;Indisponível;40,47619048;45,23809524;Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+1.2. Índice de Envolvimento Discente em Órgãos Colegiados (IED);57,65517241;70,04716981;68,79120879;61,99304751;48,44559585;
+1.3/3.2 Evolução da Quantidade de Parcerias com os Arranjos Produtivos e Sociais (EPAPS);20,40816327;-28,81355932;-45,23809524;60,86956522;-16,21621622;
+2.1. Índice de Permanência (IP);78,14939759;86,93765009;79,4559549;69,41903427;66,33;
+2.2. Índice de êxito (IE);Indisponível;43,82220182;51,40361406;37,20273134;40,75;
+2.3 Índice de Participação dos Alunos no Mundo do Trabalho (PAMT);2,554994153;0,684734831;1,33348839;10,75166508;4,660479948;
+2.4 Índice de Participação dos Egressos no Mundo do Trabalho (PEMT);39,17050691;36,84210526;29,41176471;41,4893617;33,33333333;
+3.1 Índice de Satisfação dos Públicos de Interesse com a Comunicação Institucional (ISPICI);84,77498246;86,22809714;61,68152475;65,45678674;82,63833835;
+3.3 Índice de Internacionalização (IndI);447,3684211;-96,15384615;150;400;-12;
+4.1 Percentual de PPCs com Curricularização da Pesquisa e Extensão (CPE);;;;;;Este indicador não estava sendo coletado em razão da dificuldade de mensurar a pesquisa e a extensão em conjunto, resultando no desmembramento deste indicador em dois novos indicadores (CPesq e CExt), definidos por meio da Portaria IFSP nº 2218/2023.
+4.2 Percentual de PPCs com Curricularização da Pesquisa (CPesq);;;;75,34246575;75,34246575;Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+4.3 Percentual de PPCs com Curricularização da Extensão (CExt);;;;5,479452055;100;Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+5.1 Percentual de processos atendidos por sistema integrado (PASI);;;;;;Devido à transformação digital no Governo Federal e à aceleração na utilização de processos eletrônicos, ocorrências impulsionadas em grande medida pela pandemia da Covid-19, todos os processos passaram a ser realizados no formato digital, resultando na obsolescência deste indicador que se transformou em dois novos indicadores (EUPE e IDCD), definidos por meio da Portaria IFSP nº 2218/2023.
+5.2 Índice Geral de Governança (IGG);;;48,3;;41,21;Não foram publicados, pelo TCU, dados dos anos de 2019, 2020 e 2022.
+5.3 Evolução na Utilização dos Processos Eletrônicos (EUPE);116,0145665;38,13626866;34,69753916;41,94463474;27,39763743;
+5.4 Incremento da Disseminação da Cultura Digital (IDCD);Indisponível;Indisponível;Indisponível;10,8956602;-2,955870108;Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+6.1 Índice de qualidade de vida dos servidores (IQVS);59,95980348;17,30939716;12,84484661;70,2553941;41,53914393;
+6.2 Índice de Satisfação dos Servidores no Trabalho (ISST);Indisponível;95;79,19720768;74,72873644;92,77195519;"Não foi possível mapear os anos anteriores a 2020, pois a variável considera um índice de respostas do
 questionário da CPA, e, nos anos anteriores, não era abordada essa questão."
-6.3 Índice de Desenvolvimento de Pessoal (IDP),77,45098039,81,3,58,04537522,62,26811341,80,66498012,
-6.4. Índice de Integração de Servidores (IIS),3,14872711,0,2,6,2,333773668,9,691727656,
-7.1 Percentual de implantação do Plano Diretor de Infraestrutura (IPDI),,Indisponível,Indisponível,66,67,100,Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-7.2 Percentual da Execução Orçamentária Destinada às Ofertas Educacionais (EODOE),0,96948588,0,904176171,0,955198228,1,061702314,1,178294584,
-7.3 Índice de Satisfação com o Acesso aos Câmpus (ISAC),63,14523404,66,8,47,14878574,49,71236817,57,99904868,
-7.4 Índice de Adequação da Infraestrutura às Normas de Acessibilidade (AINA),,,,,0,55,Não há dados anteriores a 2023, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
-7.5 Relação Aluno Docente (RAD),20,78811154,18,9116905,23,76486351,26,37875987,26,67,
-7.5a Relação Aluno Professor (RAP),22,72198035,21,81975062,23,41111581,24,84200077,22,8,
-7.6 Relação Aluno Técnico-Administrativo (RATA),33,11170213,29,57127827,36,70460424,40,54235537,40,25,
+6.3 Índice de Desenvolvimento de Pessoal (IDP);77,45098039;81,3;58,04537522;62,26811341;80,66498012;
+6.4. Índice de Integração de Servidores (IIS);3,14872711;0;2,6;2,333773668;9,691727656;
+7.1 Percentual de implantação do Plano Diretor de Infraestrutura (IPDI);;Indisponível;Indisponível;66,67;100;Não há dados anteriores a 2022, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+7.2 Percentual da Execução Orçamentária Destinada às Ofertas Educacionais (EODOE);0,96948588;0,904176171;0,955198228;1,061702314;1,178294584;
+7.3 Índice de Satisfação com o Acesso aos Câmpus (ISAC);63,14523404;66,8;47,14878574;49,71236817;57,99904868;
+7.4 Índice de Adequação da Infraestrutura às Normas de Acessibilidade (AINA);;;;;0,55;Não há dados anteriores a 2023, pois o indicador foi atualizado em 26 de maio de 2023 pela Portaria IFSP nº 2218/2023.
+7.5 Relação Aluno Docente (RAD);20,78811154;18,9116905;23,76486351;26,37875987;26,67;
+7.5a Relação Aluno Professor (RAP);22,72198035;21,81975062;23,41111581;24,84200077;22,8;
+7.6 Relação Aluno Técnico-Administrativo (RATA);33,11170213;29,57127827;36,70460424;40,54235537;40,25;
