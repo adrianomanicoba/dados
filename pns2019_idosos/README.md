@@ -22,6 +22,14 @@ dic_var = pd.read_csv(BASE + "dicionario_variaveis.csv")
 dic_cat = pd.read_csv(BASE + "dicionario_categorias.csv", dtype=str)
 ```
 
+## Leitura direta no R
+
+```r
+idosos <- read.csv("https://raw.githubusercontent.com/adrianomanicoba/dados/main/pns2019_idosos/pns2019_idosos.csv")
+```
+
+(`pns2019_idosos.csv` tem ~65 MB, sem compressão; o `.csv.gz` tem o mesmo conteúdo em 7 MB.)
+
 ## Uso no Colab
 
 Clique no botão acima. A primeira célula carrega a base pronta; as seções seguintes trazem conferências e exemplos de análise ponderada.
