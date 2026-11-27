@@ -12,11 +12,21 @@ O notebook baixa os arquivos direto do IBGE, separa as colunas com o layout ofic
 | `dicionario_variaveis.csv` | código → descrição da variável |
 | `dicionario_categorias.csv` | código + valor → descrição da categoria |
 
-## Uso rápido no Colab
+Os três arquivos já estão nesta pasta. Para carregar direto em qualquer notebook:
 
-Clique no botão acima e rode todas as células (Ambiente de execução → Executar tudo). O processo leva poucos minutos.
+```python
+import pandas as pd
+BASE = "https://raw.githubusercontent.com/adrianomanicoba/dados/main/pns2019_idosos/"
+df = pd.read_csv(BASE + "pns2019_idosos.csv.gz", low_memory=False)
+dic_var = pd.read_csv(BASE + "dicionario_variaveis.csv")
+dic_cat = pd.read_csv(BASE + "dicionario_categorias.csv", dtype=str)
+```
 
-Para usar em outro notebook:
+## Uso no Colab
+
+Clique no botão acima. A primeira célula carrega a base pronta; as seções seguintes trazem conferências e exemplos de análise ponderada.
+
+Para regenerar a base a partir dos arquivos originais do IBGE:
 
 ```python
 !wget -q https://raw.githubusercontent.com/adrianomanicoba/dados/main/pns2019_idosos/pns_idosos.py

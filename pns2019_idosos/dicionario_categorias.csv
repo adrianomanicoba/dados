@@ -1,0 +1,4104 @@
+variavel,valor,descricao
+V0001,11,Rondônia
+V0001,12,Acre
+V0001,13,Amazonas
+V0001,14,Roraima
+V0001,15,Pará
+V0001,16,Amapá
+V0001,17,Tocantins
+V0001,21,Maranhão
+V0001,22,Piauí
+V0001,23,Ceará
+V0001,24,Rio Grande do Norte
+V0001,25,Paraíba
+V0001,26,Pernambuco
+V0001,27,Alagoas
+V0001,28,Sergipe
+V0001,29,Bahia
+V0001,31,Minas Gerais
+V0001,32,Espírito Santo
+V0001,33,Rio de Janeiro
+V0001,35,São Paulo
+V0001,41,Paraná
+V0001,42,Santa Catarina
+V0001,43,Rio Grande do Sul
+V0001,50,Mato Grosso do Sul
+V0001,51,Mato Grosso
+V0001,52,Goiás
+V0001,53,Distrito Federal
+V0015,1,Realizada
+V0015,2,Domicilio Fechado
+V0015,3,Recusa
+V0015,4,Outro Motivo
+V0015,5,Domicílio vago
+V0015,6,Domicílio de uso ocasional
+V0015,7,Domicílio coletivo ou improvisado
+V0015,8,Domicílio em obras ou em ruínas
+V0015,9,Domicilio demolido
+V0015,10,Domicílio não encontrado
+V0015,11,Unidade não residencial
+V0015,12,Domicílio fora do setor
+V0022,01 a 30,Pessoas
+V0026,1,Urbano
+V0026,2,Rural
+V0031,1,Capital
+V0031,2,"Resto da RM (Região Metropolitana, excluindo a capital)"
+V0031,3,RIDE (excluindo a capital)
+V0031,4,"Resto da UF (Unidade da Federação, excluindo a região metropolitana e RIDE)"
+V0025A,0,Não selecionado
+V0025A,1,Selecionado
+V0025A,9,Não aplicável
+V0025B,0,Não selecionado
+V0025B,1,Selecionado
+V0025B,9,Não aplicável
+A001,1,Casa
+A001,2,Apartamento
+A001,3,"Habitação em casa de cômodos, cortiço ou cabeça de porco"
+A001,9 ,Ignorado
+A002010,1,Alvenaria com revestimento ou taipa revestida
+A002010,2,Alvenaria sem revestimento
+A002010,3,Taipa sem revestimento
+A002010,4,Madeira apropriada para construção (aparelhada)
+A002010,5,Madeira aproveitada
+A002010,6,Outro material
+A002010,9 ,Ignorado
+A003010,1,Telha sem laje de concreto
+A003010,2,Telha com laje de concreto
+A003010,3,Somente laje de concreto
+A003010,4,Madeira apropriada para construção (aparelhada)
+A003010,5,"Zinco, alumínio ou chapa metálica"
+A003010,6,Outro material
+A003010,9 ,Ignorado
+A004010,1,"Cerâmica, lajota ou pedra (inclusive outros pisos frios como porcelanato e granito)"
+A004010,2,"Madeira apropriada para construção (aparelhada) (tábua corrida, taco, parquet e laminado)"
+A004010,3,Cimento
+A004010,4,Terra
+A004010,5,Outro material 
+A004010,9 ,Ignorado
+A01001,01 a 30,Cômodo(s) no domicílio
+A01001,99,Ignorado
+A011,01 a 15,Cômodo(s) servindo de dormitório
+A011,99,Ignorado
+A005010,1,Rede geral de distribuição
+A005010,2,Poço profundo ou artesiano
+A005010,3,"Poço raso, freático ou cacimba"
+A005010,4,Fonte ou nascente
+A005010,5,Água da chuva armazenada
+A005010,6,Outra
+A005010,9 ,Ignorado
+A005012,1,Sim
+A005012,2,Não 
+A005012,9 ,Ignorado
+A00601,1, Canalizada em pelo menos um cômodo 
+A00601,2, Canalizada no terreno ou propriedade 
+A00601,3,Não canalizada 
+A00601,9 ,Ignorado
+A009010,1, Filtrada
+A009010,2, Fervida
+A009010,3, Tratada com hipoclorito de sódio (cloro)
+A009010,4, Tratada de outra forma no domicílio
+A009010,5, Mineral industrializada
+A009010,6, Sem tratamento no domicílio
+A009010,9 ,Ignorado
+A01401,01 a 15,Banheiro(s) ou sanitário(s)
+A01401,0,Nenhum
+A01401,99 ,Ignorado
+A01402,01 a 15,Banheiro(s) ou sanitário(s)
+A01402,00,Nenhum
+A01402,99,Ignorado
+A01403,1,Sim
+A01403,2,Não 
+A01403,9 ,Ignorado
+A01501,1,Rede geral de esgoto ou pluvial
+A01501,2,Fossa séptica ligada à rede
+A01501,3,Fossa séptica não ligada à rede
+A01501,4,Fossa rudimentar
+A01501,5, Vala
+A01501,6," Rio, lago, córrego ou mar"
+A01501,7,Outra
+A01501,9 ,Ignorado
+A016010,1, Coletado diretamente por serviço de limpeza (independente da frequência de dias de coleta)
+A016010,2, Coletado em caçamba de serviço de limpeza
+A016010,3, Queimado (na propriedade)
+A016010,4,Enterrado (na propriedade)
+A016010,5, Jogado em terreno baldio ou logradouro
+A016010,6,Outro
+A016010,9 ,Ignorado
+A018011,1,Sim 
+A018011,2,Não
+A018011,9 ,Ignorado
+A018012,01 a 98,Televisão em cores
+A018012,99,Ignorado
+A018013,1,Sim 
+A018013,2,Não
+A018013,9 ,Ignorado
+A018014,01 a 98,Geladeira
+A018014,99,Ignorado
+A018015,1,Sim 
+A018015,2,Não
+A018015,9 ,Ignorado
+A018016,01 a 98,máquina de lavar roupa 
+A018016,99,Ignorado
+A018017,1,Sim 
+A018017,2,Não
+A018017,9 ,Ignorado
+A018018,01 a 98,Telefone fixo
+A018018,99,Ignorado
+A018019,1,Sim 
+A018019,2,Não
+A018019,9 ,Ignorado
+A018020,01 a 98,Telefone celular
+A018020,99,Ignorado
+A018021,1,Sim 
+A018021,2,Não
+A018021,9 ,Ignorado
+A018022,01 a 98,Forno micro-ondas
+A018022,99,Ignorado
+A018023,1,Sim 
+A018023,2,Não
+A018023,9 ,Ignorado
+A018024,01 a 98,"Computador (computadores de mesa, laptops, notebooks)"
+A018024,99,Ignorado
+A018025,1,Sim 
+A018025,2,Não
+A018025,9 ,Ignorado
+A018026,01 a 98,Motocicletas
+A018026,99,Ignorado
+A018027,1,Sim 
+A018027,2,Não
+A018027,9 ,Ignorado
+A018028,01 a 98,Automóvel
+A018028,99,Ignorado
+A01901,1,Sim 
+A01901,2,Não
+A01901,9 ,Ignorado
+A02101,1,Sim
+A02101,2,Não
+A02102,01 a 98,Trabalhadores domésticos
+A02102,99,Ignorado
+A02201,1,Sim
+A02201,2,Não
+A02201,9 ,Ignorado
+A02305,00 a 98,Gatos
+A02305,99,Ignorado
+A02306,00 a 98,Cachorros
+A02306,99,Ignorado
+A02307,00 a 98,Aves
+A02307,99,Ignorado
+A02308,00 a 98,Peixes
+A02308,99,Ignorado
+A02401,00 a 98,Gatos vacinados
+A02401,99,Ignorado
+A02402,00 a 98,Cachorros vacinados
+A02402,99,Ignorado
+B001,1,Sim
+B001,2,Não
+B001,3,Não sabe
+B001,9 ,Ignorado
+B002,1,Há menos de 2 meses
+B002,2,De 2 a menos de 6 meses
+B002,3,De 6 meses a menos de um ano
+B002,4,Há um ano ou mais
+B002,9 ,Ignorado
+B003,1,Mensalmente
+B003,2,A cada 2 meses
+B003,3,De 2 a 4 vezes 
+B003,4,Uma vez 
+B003,5,Nunca recebeu
+B003,9 ,Ignorado
+B004,1,Mensalmente
+B004,2,A cada 2 meses
+B004,3,De 2 a 4 vezes 
+B004,4,Uma vez
+B004,5,Nunca recebeu
+B004,9 ,Ignorado
+C004,01,Pessoa responsável pelo domicílio 
+C004,02,Cônjuge ou companheiro(a) de sexo diferente
+C004,03,Cônjuge ou companheiro(a) do mesmo sexo
+C004,04,Filho(a) do responsável e do cônjuge 
+C004,05,Filho(a) somente do responsável
+C004,06,Filho(a) somente do cônjuge
+C004,07,Genro ou nora
+C004,08,"Pai, mãe, padrasto ou madrasta"
+C004,09,Sogro(a)
+C004,10,Neto(a)
+C004,11,Bisneto(a) 
+C004,12,Irmão ou irmã
+C004,13,Avô ou avó
+C004,14,Outro parente
+C004,15,Agregado(a) - Não parente que não compartilha despesas
+C004,16,Convivente - Não parente que compartilha despesas
+C004,17,Pensionista
+C004,18,Empregado(a) doméstico(a)
+C004,19,Parente do(a) empregado(a) doméstico(a)
+C006,1,Homem
+C006,2,Mulher
+C00701,01 a 31,Dia de nascimento 
+C00701,99,Não informado
+C00702,01 a 12,Mês
+C00702,99,Não informado
+C00703,ano atual - 130 a ano atual,Ano
+C00703,9999,Não informado
+C008,000 a 130,Idade (em anos)
+C009,1,Branca
+C009,2,Preta
+C009,3,Amarela
+C009,4,Parda 
+C009,5,Indígena
+C009,9,Ignorado
+C01001,1,Sim
+C01001,2,Não
+C01001,9,Ignorado
+C010010,01,morador 1
+C010010,02,morador 2
+C010010,30,morador 30
+C013,1,Sim
+C013,2,Não
+C013,9,Ignorado
+C014,1,Casamento civil
+C014,2,União estável (convivência)
+C014,9,Ignorado
+C015,1,Sim
+C015,2,Não
+C015,9,Ignorado
+C016,1,Sim
+C016,2,Não
+C016,9,Ignorado
+C017,1,Sim
+C017,2,Não
+C017,9,Ignorado
+C018,1,Idade
+C018,2,Não sabe/não lembra
+C01801,000 a 130,Idade (em anos)
+C011,1,Casado(a)
+C011,2,Divorciado(a) ou desquitado(a) ou separado(a) judicialmente
+C011,3,Viúvo(a)
+C011,4,Solteiro(a)
+C011,9,Ignorado
+C012,1,A própria pessoa
+C012,2,Outro morador
+C012,3,Pessoa não moradora
+C012,9,Ignorado
+D001,1,Sim
+D001,2,Não
+D001,9 ,Ignorado
+D00201,1,Sim
+D00201,2,Não  
+D00201,9 ,Ignorado
+D00202,1,Rede privada                         
+D00202,2,Rede pública
+D00202,9 ,Ignorado
+D00301,01,Creche
+D00301,02,Pré-escola 
+D00301,03,Alfabetização de jovens e adultos
+D00301,04,Regular do ensino fundamental
+D00301,05,Educação de jovens e adultos (EJA) do ensino fundamental
+D00301,06,Regular do ensino médio
+D00301,07,Educação de jovens e adultos (EJA) do ensino médio
+D00301,08,Superior - graduação
+D00301,09,Especialização de nível superior (duração mínima de 360 horas)
+D00301,10,Mestrado
+D00301,11,Doutorado
+D00301,99,Ignorado
+D00501,1,Períodos semestrais
+D00501,2,Anos
+D00501,3,Outra forma
+D00501,9 ,Ignorado
+D006,1,Primeira(o)
+D006,2,Segunda(o) 
+D006,3,Terceira(o) 
+D006,4,Quarta(o)
+D006,5,Quinta(o)
+D006,6,Sexta(o)
+D006,7,Sétima(o)
+D006,8,Oitava(o)
+D006,9,Nona(o)
+D006,10,Décimo
+D006,11,Décimo primeiro
+D006,12,Décimo segundo
+D006,13,Curso não classificado em séries ou anos
+D006,99,Ignorado
+D006,1,Anos iniciais (primeiro segmento) 
+D006,2,Anos finais (segundo segmento) 
+D006,9 ,Ignorado
+D007,1,Sim
+D007,2,Não
+D007,9 ,Ignorado
+D008,1,Sim
+D008,2,Não
+D008,9 ,Ignorado
+D00901,01,Creche
+D00901,02,Pré-escola 
+D00901,03,Classe de alfabetização – CA 
+D00901,04,Alfabetização de jovens e adultos
+D00901,05,Antigo primário (elementar)
+D00901,06,Antigo ginasial (médio 1º ciclo)
+D00901,07,Regular do ensino fundamental ou do 1º grau 
+D00901,08,Educação de jovens e adultos (EJA) ou supletivo do ensino fundamental
+D00901,09,"Antigo científico, clássico etc. (médio 2º ciclo)"
+D00901,10,Regular do ensino médio ou do 2º grau
+D00901,11,Educação de jovens e adultos (EJA) ou supletivo do ensino médio
+D00901,12,Superior – graduação
+D00901,13,Especialização de nível superior (duração mínima de 360 horas)
+D00901,14,Mestrado
+D00901,15,Doutorado
+D00901,99,Ignorado
+D010,1,8 anos                            
+D010,2,9 anos
+D010,9 ,Ignorado
+D01101,1,Períodos semestrais
+D01101,2,Anos
+D01101,3,Outra forma
+D01101,9 ,Ignorado
+D01201,1,Sim
+D01201,2,Não
+D01201,3,Curso não classificado em séries ou anos
+D01201,9 ,Ignorado
+D01301,1,Primeira(o)
+D01301,2,Segunda(o)
+D01301,3,Terceira(o) 
+D01301,4,Quarta(o)
+D01301,5,Quinta(o)
+D01301,6,Sexta(o)
+D01301,7,Sétima(o)
+D01301,8,Oitava(o)
+D01301,9,Nona(o)
+D01301,10,Décimo
+D01301,11,Décimo primeiro
+D01301,12,Décimo segundo
+D01301,99,Ignorado
+D01302,1,Anos iniciais (primeiro segmento) 
+D01302,2,Anos finais (segundo segmento) 
+D01302,9 ,Ignorado
+D01303,1,Sim
+D01303,2,Não
+D01303,9 ,Ignorado
+D014,1,Sim
+D014,2,Não
+D014,9 ,Ignorado
+D015,1,A própria pessoa
+D015,2,Outro morador   
+D015,3,Não morador
+D015,9,Ignorado
+E001,1,Sim
+E001,2,Não
+E001,9,Ignorado
+E002,1,Sim
+E002,2,Não
+E002,9,Ignorado
+E003,1,Sim
+E003,2,Não
+E003,9,Ignorado
+E004,1,Sim 
+E004,2,Não
+E004,9,Ignorado
+E005,1,Sim 
+E005,2,Não
+E005,9,Ignorado
+E006011,1,"Férias, folga ou jornada de trabalho variável"
+E006011,2,Licença maternidade ou paternidade
+E006011,3,Licença remunerada por motivo de saúde ou acidente da própria pessoa
+E006011,4,"Outro tipo de licença remunerada (estudo, casamento, licença prêmio etc.)"
+E006011,5,"Afastamento do próprio negócio/empresa por motivo de gestação, doença, acidente etc., sem ser remunerado por instituto de previdência"
+E006011,6,"Fatores ocasionais (mau tempo, paralisação nos serviços de transporte etc.) "
+E006011,7,Outro motivo
+E006011,9,Ignorado
+E008,1,Sim 
+E008,2,Não
+E008,9,Ignorado
+E010010,1,Menos de 1 mês
+E010010,2,De 1 mês a menos de 1 ano   
+E010010,3,De 1 ano a menos de 2 anos
+E010010,4, 2 anos ou mais 
+E010010,9,Ignorado
+E010011,01 a 11,01 a 11 meses
+E010011,99,Ignorado
+E010012,00 a 11,00 a 11 meses
+E010012,99,Ignorado
+E010013,02 a 98,2 anos ou mais 
+E010013,99,Ignorado
+E011,1,Um
+E011,2,Dois
+E011,3,Três ou mais  
+E011,9,Ignorado
+E01201,código,"Ver ""Classificação nacional de ocupações para pesquisas domiciliares (COD) 2010"""
+E01201,9999,Ignorado
+E01401,1,Trabalhador doméstico  
+E01401,2,"Militar do exército, da marinha, da aeronáutica, da polícia militar ou do corpo de bombeiros militar "
+E01401,3,Empregado do setor privado 
+E01401,4,Empregado do setor público (inclusive empresas de economia mista)
+E01401,5,Empregador
+E01401,6,Conta própria 
+E01401,7,Trabalhador não remunerado em ajuda a membro do domicílio ou parente 
+E01401,9,Ignorado
+E014011,1,Em ajuda a conta própria ou empregador 
+E014011,2,Em ajuda a empregado
+E014011,3, Em ajuda a trabalhador doméstico 
+E014011,9,Ignorado
+E01402,1,Sim
+E01402,2,Não 
+E01402,9,Ignorado
+E01403,1,Sim
+E01403,2,Não
+E01403,9,Ignorado
+E01501,código,"Ver ""Composição dos Grupamentos de Atividade"" e “Relação de Códigos de Atividades” da CNAE-Domiciliar 2.0"
+E01501,99999,Ignorado
+E01601,1,Valor em dinheiro
+E01601,9,Ignorado
+E01602,valor em reais,R$
+E01602,99999999,Ignorado
+E01603,2,Valor estimado dos produtos ou mercadorias
+E01603,9,Ignorado
+E01604,valor em reais,R$
+E01604,99999999,Ignorado
+E01605,1,"Pessoa recebendo somente em beneficios, exceto aprendizado"
+E01605,2,Aprendiz ou estagiário recebendo em aprendizado e outros beneficios
+E01605,3,Aprendiz ou estagiário recebendo somente em aprendizado
+E01605,9,Ignorado
+E017,001 A 120,Horas
+E01801,1,Valor em dinheiro
+E01801,9,Ignorado
+E01802,valor em reais,R$
+E01802,99999999,Ignorado
+E01803,2,Valor estimado dos produtos ou mercadorias
+E01803,9,Ignorado
+E01804,valor em reais,R$
+E01804,99999999,Ignorado
+E01805,1,"Pessoa recebendo somente em beneficios, exceto aprendizado"
+E01805,2,Aprendiz ou estagiário recebendo em aprendizado e outros beneficios
+E01805,3,Aprendiz ou estagiário recebendo somente em aprendizado
+E01805,9,Ignorado
+E019,001 a 120,Horas
+E022,1,Sim
+E022,2,Não
+E022,9 ,Ignorado
+E023011,01,"Entrou em contato com empregador (pessoalmente, por telefone, por e-mail ou pelo portal da empresa, inclusive enviando currículo) "
+E023011,02,Colocou ou respondeu anúncio de trabalho em jornal ou revista
+E023011,03,Consultou ou inscreveu-se em agência de emprego privada ou sindicato
+E023011,04,"Consultou ou inscreveu-se em agência municipal, estadual ou no Sistema Nacional de Emprego (SINE) "
+E023011,05,Fez ou inscreveu-se em concurso
+E023011,06,"Consultou parente, amigo ou colega "
+E023011,07,"Tomou medida para iniciar próprio negócio (recursos financeiros, local para instalação, equipamentos, legalização etc.)"
+E023011,08,Tomou outra providência
+E023011,09,Não tomou providência efetiva 
+E023011,99,Ignorado
+E024011,01,Conseguiu proposta de trabalho para começar após a semana de referência
+E024011,02,Estava aguardando resposta de medida tomada para conseguir trabalho
+E024011,03,Não conseguia trabalho adequado 
+E024011,04,Não tinha experiência profissional ou qualificação
+E024011,05,Não conseguia trabalho por ser considerado muito jovem ou muito idoso
+E024011,06,Não havia trabalho na localidade
+E024011,07,"Tinha que cuidar dos afazeres domésticos, do(s) filho(s) ou de outro(s) parente(s)"
+E024011,08,Estava estudando (em curso de qualquer tipo ou por conta própria)
+E024011,09,Por problema de saúde ou gravidez
+E024011,10,Não desejava trabalhar
+E024011,11,Outro motivo
+E024011,99,Ignorado
+E02402,1,Menos de 1 mês 
+E02402,2,De 1 mês a menos de 1 ano 
+E02402,3,1 ano ou mais   
+E02402,9 ,Ignorado
+E024021,01 a 11,01 a 11 meses
+E025,1,Menos de 1 mês  
+E025,2,De 1 mês a menos de 1 ano   
+E025,3,De 1 ano a menos de 2 anos 
+E025,4,2 anos ou mais   
+E025,9 ,Ignorado
+E02501, 01 a 11,01 a 11 meses 
+E02501,99,Ignorado
+E02502,00 a 11,00 a 11 meses 
+E02502,99,Ignorado
+E02503,02 a 98,2 anos ou mais 
+E02503,99,Ignorado
+E026,1,Sim
+E026,2,Não
+E026,9 ,Ignorado
+E02601,1,Sim
+E02601,2,Não
+E02601,9 ,Ignorado
+E02801,1,Sim
+E02801,2,Não
+E02801,9 ,Ignorado
+E02802,1,Sim
+E02802,2,Não
+E02802,9 ,Ignorado
+E02803,1,Sim
+E02803,2,Não
+E02803,9 ,Ignorado
+E02804,1,Sim
+E02804,2,Não
+E02804,9 ,Ignorado
+E02805,1,Sim
+E02805,2,Não
+E02805,9 ,Ignorado
+E02806,1,Sim
+E02806,2,Não
+E02806,9 ,Ignorado
+E030,1,Sim
+E030,2,Não
+E030,9 ,Ignorado
+E03101,1,Sim
+E03101,2,Não
+E03101,9 ,Ignorado
+E03102,1,Sim
+E03102,2,Não
+E03102,9 ,Ignorado
+E03103,1,Sim
+E03103,2,Não
+E03103,9 ,Ignorado
+E03104,1,Sim
+E03104,2,Não
+E03104,9 ,Ignorado
+E03105,1,Sim
+E03105,2,Não
+E03105,9 ,Ignorado
+E03106,1,Sim
+E03106,2,Não
+E03106,9 ,Ignorado
+E03107,1,Sim
+E03107,2,Não
+E03107,9 ,Ignorado
+E03108,1,Sim
+E03108,2,Não
+E03108,9 ,Ignorado
+E032,1,Sim
+E032,2,Não
+E032,9 ,Ignorado
+E033,999,Ignorado
+E027,1,Própria pessoa
+E027,2,Outro morador   
+E027,3,Pessoa não moradora
+E027,9,Ignorado
+F001011,1,Sim
+F001011,2,Não
+F001021,99999999,Ignorado
+F007011,1,Sim
+F007011,2,Não
+F007021,99999999,Ignorado
+F008011,1,Sim
+F008011,2,Não
+F008021,99999999,Ignorado
+VDF001,1,Sim
+VDF001,2,Não
+VDF00102,00000001 a 99999999,Reais
+F016,1,A própria pessoa 
+F016,2,Outro morador
+F016,3,Pessoa não moradora
+F016,9,Ignorado
+G033,1,Sim
+G033,2,Não
+G033,9 ,Ignorado
+G034,1,Sim
+G034,2,Não
+G034,9 ,Ignorado
+G035,1,Sim
+G035,2,Não
+G035,9 ,Ignorado
+G036,1,Sim
+G036,2,Não
+G036,9 ,Ignorado
+G038,1,Sim
+G038,2,Não
+G038,9 ,Ignorado
+G039,1,Sim
+G039,2,Não
+G039,9 ,Ignorado
+G040,1,Sim
+G040,2,Não
+G040,9 ,Ignorado
+G041,1,Sim
+G041,2,Não
+G041,9 ,Ignorado
+G042,1,Sim
+G042,2,Não
+G042,9 ,Ignorado
+G044,1,Sim
+G044,2,Não
+G044,9 ,Ignorado
+G046,1,"Não, nenhuma dificuldade"
+G046,2,"Sim, alguma dificuldade"
+G046,3,"Sim, muita dificuldade"
+G046,4,"Sim, não consegue de modo algum"
+G046,9 ,Ignorado
+G047,1,"Não, nenhuma dificuldade"
+G047,2,"Sim, alguma dificuldade"
+G047,3,"Sim, muita dificuldade"
+G047,4,"Sim, não consegue de modo algum"
+G047,9 ,Ignorado
+G048,1,Sim
+G048,2,Não
+G048,9 ,Ignorado
+G049,1,Sim
+G049,2,Não
+G049,9 ,Ignorado
+G050,1,Sim
+G050,2,Não
+G050,9 ,Ignorado
+G051,1,Sim
+G051,2,Não
+G051,9 ,Ignorado
+G052,1,Sim
+G052,2,Não
+G052,9 ,Ignorado
+G053,1,Sim
+G053,2,Não
+G053,9 ,Ignorado
+G054,1,Sim
+G054,2,Não
+G054,9 ,Ignorado
+G055,1,Sim
+G055,2,Não
+G055,9 ,Ignorado
+G057,1,"Não, nenhuma dificuldade"
+G057,2,"Sim, alguma dificuldade"
+G057,3,"Sim, muita dificuldade"
+G057,4,"Sim, não consegue de modo algum"
+G057,9 ,Ignorado
+G058,1,"Não, nenhuma dificuldade"
+G058,2,"Sim, alguma dificuldade"
+G058,3,"Sim, muita dificuldade"
+G058,4,"Sim, não consegue de modo algum"
+G058,9 ,Ignorado
+G05801,1,Sim
+G05801,2,Não
+G05801,9,Ignorado
+G059,1,Sim
+G059,2,Não
+G059,9 ,Ignorado
+G060,1,Sim
+G060,2,Não
+G060,9 ,Ignorado
+G061,1,Sim
+G061,2,Não
+G061,9 ,Ignorado
+G062,1,Sim
+G062,2,Não
+G062,9 ,Ignorado
+G063,1,Sim
+G063,2,Não
+G063,9 ,Ignorado
+G064,1,Sim
+G064,2,Não
+G064,9 ,Ignorado
+G065,1,Sim
+G065,2,Não
+G065,9 ,Ignorado
+G066,1,Sim
+G066,2,Não
+G066,9 ,Ignorado
+G067,1,Sim
+G067,2,Não
+G067,9 ,Ignorado
+G068,1,Sim
+G068,2,Não
+G068,9 ,Ignorado
+G070,1,"Não, nenhuma dificuldade"
+G070,2,"Sim, alguma dificuldade"
+G070,3,"Sim, muita dificuldade"
+G070,4,"Sim, não consegue de modo algum"
+G070,9 ,Ignorado
+G071,1,"Não, nenhuma dificuldade"
+G071,2,"Sim, alguma dificuldade"
+G071,3,"Sim, muita dificuldade"
+G071,4,"Sim, não consegue de modo algum"
+G071,9 ,Ignorado
+G072,1,Sim
+G072,2,Não
+G072,9 ,Ignorado
+G073,1,Sim
+G073,2,Não
+G073,9 ,Ignorado
+G074,1,Sim
+G074,2,Não
+G074,9 ,Ignorado
+G075,1,Sim
+G075,2,Não
+G075,9 ,Ignorado
+G076,1,Sim
+G076,2,Não
+G076,9 ,Ignorado
+G077,1,Sim
+G077,2,Não
+G077,9 ,Ignorado
+G079,1,"Não, nenhuma dificuldade"
+G079,2,"Sim, alguma dificuldade"
+G079,3,"Sim, muita dificuldade"
+G079,4,"Sim, não consegue de modo algum"
+G079,9 ,Ignorado
+G080,1,"Não, nenhuma dificuldade"
+G080,2,"Sim, alguma dificuldade"
+G080,3,"Sim, muita dificuldade"
+G080,4,"Sim, não consegue de modo algum"
+G080,9 ,Ignorado
+G081,1,"Não, nenhuma dificuldade"
+G081,2,"Sim, alguma dificuldade"
+G081,3,"Sim, muita dificuldade"
+G081,4,"Sim, não consegue de modo algum"
+G081,9 ,Ignorado
+G082,1,"Não, nenhuma dificuldade"
+G082,2,"Sim, alguma dificuldade"
+G082,3,"Sim, muita dificuldade"
+G082,4,"Sim, não consegue de modo algum"
+G082,9 ,Ignorado
+G083,1,"Não, nenhuma dificuldade"
+G083,2,"Sim, alguma dificuldade"
+G083,3,"Sim, muita dificuldade"
+G083,4,"Sim, não consegue de modo algum"
+G083,9 ,Ignorado
+G084,1,Sim
+G084,2,Não
+G084,9 ,Ignorado
+G085,1,No domicílio                         
+G085,2,Em serviço de saúde
+G085,9 ,Ignorado
+G086,1,SUS ou serviço conveniado ao SUS
+G086,2,"Convênio, Plano de saúde ou particular"
+G086,3,Outros
+G086,4,Não sei informar
+G086,9 ,Ignorado
+G032,1,A própria pessoa 
+G032,2,Outro morador.
+G032,3,Pessoa não moradora
+G032,9,Ignorado
+I00101,1,Sim
+I00101,2,Não
+I00101,9 ,Ignorado
+I00102,1,Sim
+I00102,2,Não
+I00102,9 ,Ignorado
+I001021,01 a 10,Número de planos
+I001021,99,Ignorado
+I00103,1,Titular morador 
+I00103,2,Titular não morador 
+I00103,9 ,Ignorado
+I001031,1,morador 1
+I001031,2,morador 2 
+I001031,3,...
+I001031,30,morador 30
+I005,1,Até 6 meses
+I005,2,Mais de 6 meses até 1 ano
+I005,3,Mais de 1 ano até 2 anos
+I005,4,Mais de 2 anos
+I005,9 ,Ignorado
+I006,1,Muito bom
+I006,2,Bom
+I006,3,Regular
+I006,4,Ruim
+I006,5,Muito ruim
+I006,6,Nunca usou o plano de saúde
+I006,9 ,Ignorado
+I004,1,Sim
+I004,2,Não
+I004,9 ,Ignorado
+I00401,1,Sim
+I00401,2,Não
+I00401,9 ,Ignorado
+I00402,1,Sim
+I00402,2,Não
+I00402,9 ,Ignorado
+I00403,1,Sim
+I00403,2,Não
+I00403,9 ,Ignorado
+I00404,1,Sim
+I00404,2,Não
+I00404,9 ,Ignorado
+I010010,1,Somente o empregador (atual ou anterior)
+I010010,2,Parte o titular e parte o empregador (atual ou anterior)
+I010010,3,"Somente o titular, diretamente ao plano"
+I010010,4,Somente outro morador do domicílio 
+I010010,5,Pessoa não moradora do domicílio
+I010010,6,Outro
+I010010,9 ,Ignorado
+I012,1,A própria pessoa
+I012,2,Outro morador      
+I012,3,Não morador
+I012,9,Ignorado
+J001,1,Muito bom
+J001,2,Bom
+J001,3,Regular
+J001,4,Ruim
+J001,5,Muito ruim
+J001,9 ,Ignorado
+J00101,1,Muito bom
+J00101,2,Bom
+J00101,3,Regular
+J00101,4,Ruim
+J00101,5,Muito ruim
+J00101,9 ,Ignorado
+J002,1,Sim
+J002,2,Não
+J002,9 ,Ignorado
+J003,01 a 14,Dias
+J003,99,Ignorado
+J00402,01,"Problemas nos ossos e articulações (Dor nas costas, problema no pescoço ou na nuca/ Dor nos braços ou nas mãos/ Artrite ou reumatismo)"
+J00402,02,Dor de cabeça ou enxaqueca
+J00402,03,Problemas gineco-obstétricos (Problemas menstruais ou da gravidez e parto)
+J00402,04, Problema odontológico/Dor de dente
+J00402,05,Problemas respiratórios (Resfriado / gripe /sinusite/ asma / bronquite / pneumonia)
+J00402,06,Problemas gastrointestinais (Diarreia / vômito / náusea / gastrite / dor de barriga)
+J00402,07," Dengue, Chikungunya, Zika Vírus ou Febre amarela"
+J00402,08,Problemas cardiovasculares (Pressão alta / doença do coração / AVC ou derrame)
+J00402,09,Diabetes
+J00402,10,Câncer (inclusive quimioterapia/radioterapia)
+J00402,11,Problemas neurológicos (Alzheimer/Esclerose/Doença de Parkinson/Demência 
+J00402,12,Saúde mental (Depressão/ bipolaridade/esquizofrenia/transtorno de ansiedade/outro problema de saúde mental)
+J00402,13,Lesões ou fraturas provocada (s) por acidentes ou violência
+J00402,14,Outro problema de saúde
+J00402,99,Ignorado
+J00404,1,Sim
+J00404,2,Não 
+J00404,3,Não trabalhava/nunca trabalhou 
+J00404,9 ,Ignorado
+J005,1,Sim
+J005,2,Não
+J005,9 ,Ignorado
+J006,01 a 14,Dias
+J006,99,Ignorado
+J007,1,Sim
+J007,2,Não
+J007,9 ,Ignorado
+J00801,1,Sim
+J00801,2,Não
+J00801,9 ,Ignorado
+J009,1,Sim
+J009,2,Não
+J009,9 ,Ignorado
+J01002,01,Farmácia
+J01002,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+J01002,03," Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+J01002,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+J01002,05, Ambulatório de hospital público.
+J01002,06,"Consultório particular, clínica privada ou ambulatório de hospital privado"
+J01002,07,Pronto atendimento ou emergência de hospital privado.
+J01002,08,Atendimento domiciliar
+J01002,09,Outro serviço
+J01002,99,Ignorado
+J01101,1, Até 1 ano 
+J01101,2, Mais de 1 ano a 2 anos
+J01101,3, Mais de 2 anos a 3 anos
+J01101,4, Mais de 3 anos
+J01101,5, Nunca foi ao médico
+J01101,9 ,Ignorado
+J012,999,Ignorado
+J01301,1, Até 1 ano 
+J01301,2, Mais de 1 ano a 2 anos
+J01301,3, Mais de 2 anos a 3 anos
+J01301,4, Mais de 3 anos
+J01301,5, Nunca foi ao dentista
+J01301,9 ,Ignorado
+J014,1,Sim
+J014,2,Não 
+J014,9 ,Ignorado
+J01502,01," Acidente, lesão ou fratura"
+J01502,02," Doença (dor, febre, diarreia etc) ou continuação de tratamento de doença"
+J01502,03," Problema odontológico, dor de dente ou consulta de rotina ao dentista"
+J01502,04," Reabilitação (fisioterapia, fonoaudiologia, terapia ocupacional etc)"
+J01502,05, Pré-natal
+J01502,06, Parto
+J01502,07,"Exame complementar de diagnóstico (sangue, urina, imagem, etc)"
+J01502,08, Vacinação
+J01502,09," Prevenção, check-up médico ou puericultura"
+J01502,10,Solicitação de atestado de saúde
+J01502,11," Acompanhamento com psicólogo, nutricionista, ou outro profissional de saúde"
+J01502,12,Outro
+J01502,99,Ignorado
+J01602,1, Farmácia. 
+J01602,2,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família). 
+J01602,3,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+J01602,4,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+J01602,5, Ambulatório de hospital público
+J01602,6,Consultório particular clínica privada ou ambulatório de hospital privado
+J01602,7, Pronto atendimento ou emergência de hospital privado.
+J01602,8,No domicílio
+J01602,9,Outro serviço
+J01602,99,Ignorado
+J01701,1,Foi agendado para outro dia/outro local
+J01701,2,Não foi atendido
+J01701,3,Foi atendido
+J01701,9 ,Ignorado
+J01802,1,Não conseguiu vaga nem pegar senha
+J01802,2,Não tinha médico ou dentista atendendo
+J01802,3,Não havia serviço ou profissional de saúde especializado para atender
+J01802,4, Esperou muito e desistiu
+J01802,5, O serviço de saúde não estava funcionando
+J01802,6, Os equipamentos do serviço de saúde não estavam funcionando ou disponíveis para uso
+J01802,7,Não podia pagar pela consulta
+J01802,8,Outro
+J01802,9 ,Ignorado
+J019,0 a 15,Número de vezes
+J019,99,Ignorado
+J02002,01,Farmácia. 
+J02002,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família).
+J02002,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+J02002,04," UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+J02002,05, Ambulatório de hospital público.
+J02002,06,"Consultório particular, clínica privada ou ambulatório de hospital privado"
+J02002,07,Pronto atendimento ou emergência de hospital privado.
+J02002,08,No domicílio
+J02002,09,Outro serviço
+J02002,99,Ignorado
+J021,1,Sim
+J021,2,Não
+J021,9 ,Ignorado
+J022010,1,Não conseguiu vaga nem pegar senha
+J022010,2,Não tinha médico ou dentista atendendo
+J022010,3,Não havia serviço ou profissional de saúde especializado para atender
+J022010,4, Esperou muito e desistiu
+J022010,5,O serviço de saúde não estava funcionando
+J022010,6,Os equipamentos do serviço de saúde não estavam funcionando ou disponíveis para uso
+J022010,7,Não podia pagar pela consulta
+J022010,8,Outro 
+J022010,9 ,Ignorado
+J023,1,Público  
+J023,2,Privado 
+J023,3,Não sabe/Não lembra
+J024,1,Sim
+J024,2,Não
+J024,9 ,Ignorado
+J025,1,Sim
+J025,2,Não
+J025,9 ,Ignorado
+J026,1,Sim
+J026,2,Não
+J026,3,Não sabe/Não lembra
+J02702,01,Consulta médica
+J02702,02,Consulta odontológica
+J02702,03,"Consulta com outro profissional de saúde (fisioterapeuta, fonoaudiólogo, psicólogo, nutricionista, enfermeiro, etc.)"
+J02702,04,Atendimento com agente comunitário de saúde
+J02702,05,Atendimento na farmácia
+J02702,06,Vacinação
+J02702,07,"Medição/aferição de pressão arterial, Injeção, curativo"
+J02702,08,"Quimioterapia, radioterapia, hemodiálise ou hemoterapia"
+J02702,09,"Exame complementar de diagnóstico (sangue, urina, imagem, etc)"
+J02702,10,Gesso ou imobilização
+J02702,11,Pequena cirurgia em ambulatório
+J02702,12,Internação hospitalar ou cirurgia
+J02702,13,"Práticas integrativas e complementares como acupuntura, homeopatia, plantas medicinais e fitoterapia, meditação, yoga, tai chi chuan e liang gong."
+J02702,14,"Práticas de promoção de saúde, tais como grupos de atividade física, orientação sobre alimentação saudável, uso abusivo de outras drogas, grupo de cessação de tabagismo."
+J02702,15,Outro atendimento
+J02702,99,Ignorado
+J02901,1,Sim
+J02901,2,Não
+J02901,9 ,Ignorado
+J03001,1,"Sim, todos"
+J03001,2,"Sim, alguns"
+J03001,3,"Não, nenhum"
+J03001,9 ,Ignorado
+J03102,1,Não conseguiu obter no serviço público de saúde
+J03102,2,Não conseguiu o(s) medicamento(s) no programa Aqui Tem Farmácia Popular 
+J03102,3,Não tinha farmácia próxima ou teve dificuldade de transporte
+J03102,4,Não conseguiu encontrar todos os medicamentos na farmácia
+J03102,5,Não tinha dinheiro para comprar
+J03102,6,Não achou necessário
+J03102,7," Desistiu de procurar, pois melhorou"
+J03102,8,Outro
+J03102,9 ,Ignorado
+J032,1,"Sim, todos  "
+J032,2,"Sim, alguns "
+J032,3,"Não, nenhum"
+J032,9 ,Ignorado
+J03301,1,"Sim, todos  "
+J03301,2,"Sim, alguns "
+J03301,3,"Não, nenhum"
+J03301,9 ,Ignorado
+J034,1,"Sim, todos  "
+J034,2,"Sim, alguns "
+J034,3,"Não, nenhum"
+J034,9 ,Ignorado
+J035,1,Sim
+J035,2,Não
+J035,9 ,Ignorado
+J03602,01,Não houve necessidade
+J03602,02,Não tinha dinheiro
+J03602,03, O local de atendimento era distante ou teve dificuldade de transporte
+J03602,04, Horário incompatível
+J03602,05,O atendimento é muito demorado
+J03602,06, O estabelecimento não possuía especialista compatível com suas necessidades
+J03602,07, Achou que não tinha direito
+J03602,08,Não tinha quem o(a) acompanhasse
+J03602,09,Não gostava dos profissionais do estabelecimento
+J03602,10,Greve nos serviços de saúde
+J03602,11,Outro motivo
+J03602,99,Ignorado
+J037,1,Sim
+J037,2,Não
+J037,9 ,Ignorado
+J038,01 a 98,Vezes
+J038,99,Ignorado
+J039,1, Parto normal
+J039,2, Parto cesáreo
+J039,3, Tratamento clínico
+J039,4, Tratamento psiquiátrico
+J039,5, Cirurgia 
+J039,6, Exames complementares de diagnóstico
+J039,7,Outro
+J039,9 ,Ignorado
+J04001,00 a 12,Meses
+J04001,88,Morador ainda está internado
+J04001,99,Ignorado
+J04002,00 a 31,Dias
+J04002,88,Morador ainda está internado
+J04002,99,Ignorado
+J041,1,Público
+J041,2,Privado
+J041,3,Não sabe/Não lembra
+J042,1,Sim
+J042,2,Não
+J042,9 ,Ignorado
+J043,1,Sim
+J043,2,Não 
+J043,9 ,Ignorado
+J044,1,Sim
+J044,2,Não  
+J044,3,Não sabe/Não lembra
+J046,1,Sim
+J046,2,Não
+J046,9 ,Ignorado
+J047,1,Sim
+J047,2,Não  
+J047,9 ,Ignorado
+J048,1,Sim
+J048,2,Não  
+J048,9 ,Ignorado
+J049,1,Sim
+J049,2,Não  
+J049,3,Não sabe/Não lembra
+J051,1,Sim
+J051,2,Não  
+J051,9 ,Ignorado
+J052,1, SAMU
+J052,2, Ambulância de serviço público de saúde
+J052,3,Ambulância de serviço de saúde privado/plano de saúde 
+J052,4, Corpo de Bombeiros
+J052,5,Outro
+J052,9 ,Ignorado
+J05301,1,Sim
+J05301,2,Não  
+J05301,9 ,Ignorado
+J05402,1,Sim
+J05402,2,Não  
+J05402,9 ,Ignorado
+J05403,1,Sim
+J05403,2,Não  
+J05403,9 ,Ignorado
+J05404,1,Sim
+J05404,2,Não  
+J05404,9 ,Ignorado
+J05405,1,Sim
+J05405,2,Não  
+J05405,9 ,Ignorado
+J05406,1,Sim
+J05406,2,Não  
+J05406,9 ,Ignorado
+J05407,1,Sim
+J05407,2,Não  
+J05407,9 ,Ignorado
+J05408,1,Sim
+J05408,2,Não  
+J05408,9 ,Ignorado
+J05409,1,Sim
+J05409,2,Não  
+J05409,9 ,Ignorado
+J054010,1,Sim
+J054010,2,Não  
+J054010,9 ,Ignorado
+J056,1,"Sim, todos"
+J056,2,"Sim, alguns"
+J056,3,Não
+J056,9 ,Ignorado
+J057,1,"Sim, todos"
+J057,2,"Sim, alguns"
+J057,3,Não
+J057,4,Não sabe/Não lembra
+J060,1,Própria pessoa
+J060,2,Outro morador
+J060,3,Pessoa não moradora
+J060,9,Ignorado
+K001,1,Não consegue
+K001,2,Tem grande dificuldade
+K001,3,Tem pequena dificuldade
+K001,4,Não tem dificuldade
+K001,9 ,Ignorado
+K004,1,Não consegue
+K004,2,Tem grande dificuldade
+K004,3,Tem pequena dificuldade
+K004,4,Não tem dificuldade
+K004,9 ,Ignorado
+K007,1,Não consegue
+K007,2,Tem grande dificuldade
+K007,3,Tem pequena dificuldade
+K007,4,Não tem dificuldade
+K007,9 ,Ignorado
+K010,1,Não consegue
+K010,2,Tem grande dificuldade
+K010,3,Tem pequena dificuldade
+K010,4,Não tem dificuldade
+K010,9 ,Ignorado
+K013,1,Não consegue
+K013,2,Tem grande dificuldade
+K013,3,Tem pequena dificuldade
+K013,4,Não tem dificuldade
+K013,9 ,Ignorado
+K016,1,Não consegue
+K016,2,Tem grande dificuldade
+K016,3,Tem pequena dificuldade
+K016,4,Não tem dificuldade
+K016,9 ,Ignorado
+K019,1,Não consegue
+K019,2,Tem grande dificuldade
+K019,3,Tem pequena dificuldade
+K019,4,Não tem dificuldade
+K019,9 ,Ignorado
+K01901,1,Sim
+K01901,2,Não
+K01901,9 ,Ignorado
+K02001,1,Sim
+K02001,2,Não
+K02001,9 ,Ignorado
+K02101,1, Parente morador no domicílio
+K02101,2, Parente não morador no domicílio
+K02101,3,Enfermeiro ou cuidador contratado 
+K02101,4, Empregada doméstica
+K02101,5,Outra pessoa não parente 
+K02101,9 ,Ignorado
+K02102,1,Sim
+K02102,2,Não
+K02102,9 ,Ignorado
+K022,1,Não consegue
+K022,2,Tem grande dificuldade
+K022,3,Tem pequena dificuldade
+K022,4,Não tem dificuldade
+K022,9 ,Ignorado
+K025,1,Não consegue
+K025,2,Tem grande dificuldade
+K025,3,Tem pequena dificuldade
+K025,4,Não tem dificuldade
+K025,9 ,Ignorado
+K028,1, Nenhuma dificuldade
+K028,2, Alguma dificuldade
+K028,3, Muita dificuldade
+K028,4,Não consegue de modo algum
+K028,5,Não faz uso de medicamentos
+K028,9 ,Ignorado
+K031,1,Não consegue
+K031,2,Tem grande dificuldade
+K031,3,Tem pequena dificuldade
+K031,4,Não tem dificuldade
+K031,9 ,Ignorado
+K034,1,Não consegue
+K034,2,Tem grande dificuldade
+K034,3,Tem pequena dificuldade
+K034,4,Não tem dificuldade
+K034,9 ,Ignorado
+K03401,1,Sim
+K03401,2,Não
+K03401,9 ,Ignorado
+K03501,1,Sim
+K03501,2,Não 
+K03501,9 ,Ignorado
+K03601,1,Parente morador no domicílio
+K03601,2,Parente não morador no domicílio
+K03601,3,Enfermeiro ou cuidador contratado 
+K03601,4,Empregada doméstica
+K03601,5,Outra pessoa não parente
+K03601,9 ,Ignorado
+K03602,1,Sim
+K03602,2,Não 
+K03602,9 ,Ignorado
+K04301,1,Sim
+K04301,2,Não
+K04301,3,Não sabe/Não respondeu
+K04301,9,Ignorado
+K04302,01 a 98,Medicamentos
+K04302,99,ignorado
+K04401,1,Menos de 6 meses
+K04401,2, De 6 meses a menos de 1 ano
+K04401,3, De 1 ano a menos de 2 anos
+K04401,4, De 2 a 3 anos
+K04401,5,3 anos ou mais
+K04401,6, Nunca fez
+K04401,9,ignorado
+K045,1,Sim
+K045,2,Não
+K045,9 ,Ignorado
+K046,1,Sim
+K046,2,Não
+K046,9 ,Ignorado
+K047,1,Sim
+K047,2,Não
+K047,9 ,Ignorado
+K048,1," Está marcada, mas ainda não fez"
+K048,2,Não achou necessário ou teve medo
+K048,3, Ainda não conseguiu vaga
+K048,4, Estava com dificuldades financeiras
+K048,5,Não conseguiu marcar a cirurgia pelo plano
+K048,6,Outro
+K048,9 ,Ignorado
+K050,1,Sim
+K050,2,Não
+K050,9 ,Ignorado
+K051,1,Sim
+K051,2,Não
+K051,3,Não sabe/Não lembra
+K051,9,Ignorado
+K052,1,Sim
+K052,2,Não
+K052,9 ,Ignorado
+K05302,01,Não acha necessário ou raramente fica gripado
+K05302,02,Não sabia onde tomar a vacina
+K05302,03, Tem medo da reação 
+K05302,04, Tem medo de injeção
+K05302,05,O serviço de saúde era distante ou teve dificuldade de transporte
+K05302,06, A vacina não estava disponível no serviço que procurou
+K05302,07, Contraindicação médica ou motivo de doença/alergia
+K05302,08,Não acredita que a vacina proteja contra gripe
+K05302,09, Esqueceu/Não teve tempo/Perdeu o prazo da campanha
+K05302,10,Outro
+K05302,99,Ignorado
+K05401,1,Sim
+K05401,2,Não
+K05401,9 ,Ignorado
+K05402,1,Sim
+K05402,2,Não
+K05402,9 ,Ignorado
+K05402,1,Sim
+K05402,2,Não
+K05402,9 ,Ignorado
+K05601,1,Sim
+K05601,2,Não
+K05601,9 ,Ignorado
+K05602,1,Sim
+K05602,2,Não
+K05602,9 ,Ignorado
+K062,1,Própria pessoa
+K062,2,Outro morador
+K062,3,Pessoa não moradora
+K062,9,Ignorado
+L01701,1,Sim
+L01701,2,Não
+L01701,9,Ignorado
+L01702,1,Sim
+L01702,2,Não
+L01702,9,Ignorado
+L01703,1,Sim
+L01703,2,Não
+L01703,9,Ignorado
+L01704,1,Sim
+L01704,2,Não
+L01704,9,Ignorado
+L01705,1,Sim
+L01705,2,Não
+L01705,9,Ignorado
+L01706,1,Sim
+L01706,2,Não
+L01706,9,Ignorado
+L01707,1,Sim
+L01707,2,Não
+L01707,9,Ignorado
+L01708,1,Sim
+L01708,2,Não
+L01708,9,Ignorado
+L01709,1,Sim
+L01709,2,Não
+L01709,9,Ignorado
+L01710,1,Sim
+L01710,2,Não
+L01710,9,Ignorado
+L01711,1,Sim
+L01711,2,Não
+L01711,9,Ignorado
+L01712,1,Sim
+L01712,2,Não
+L01712,9,Ignorado
+L01713,1,Sim
+L01713,2,Não
+L01713,9,Ignorado
+L01714,1,Sim
+L01714,2,Não
+L01714,9,Ignorado
+L01715,1,Sim
+L01715,2,Não
+L01715,9,Ignorado
+L01716,1,Sim
+L01716,2,Não
+L01716,9,Ignorado
+L018,1,Sim
+L018,2,Não
+L018,9,Ignorado
+L019,1,Sim
+L019,2,Não
+L019,9,Ignorado
+L021,1,Sim
+L021,2,Não
+L021,3,Não sabe/Não lembra
+L021,9,Ignorado
+L022,1,Até o 5º dia após o nascimento
+L022,2,Do 6º ao 30º dia após o nascimento
+L022,3,A partir do 31º dia após o nascimento
+L022,4,Não sabe / Não lembra
+L022,9,Ignorado
+L023,1,Até 15 dias
+L023,2,Após 15 dias
+L023,3,Não recebeu o resultado
+L023,4,Não sabe/Não lembra
+L023,9,Ignorado
+L024,1,Sim
+L024,2,Não
+L024,3,Não sabe/Não lembra
+L024,9,Ignorado
+L025,1,Até o 2º dia após o nascimento
+L025,2,Do 3º ao 30º dia após o nascimento
+L025,3,Do 31º dia até 3 meses após o nascimento
+L025,4,Após 3 meses do nascimento
+L025,5,Não sabe/Não lembra
+L025,9,Ignorado
+L026,1,Em menos de 15 dias
+L026,2,De 15 dias a menos de um mês
+L026,3,De um mês a menos de dois meses
+L026,4,De dois meses a menos de três meses
+L026,5,Em três meses ou mais
+L026,6,Não recebeu resultado
+L026,7,Não sabe/Não lembra
+L026,9,Ignorado
+L027,1,Sim
+L027,2,Não
+L027,3,Não sabe/Não lembra
+L027,9,Ignorado
+L028,1,Sim
+L028,2,Não
+L028,3,Não sabe/Não lembra
+L028,9,Ignorado
+L029,1,Sim
+L029,2,Não
+L029,3,Não sabe/Não lembra
+L029,9,Ignorado
+L030,1,Sim
+L030,2,Não
+L030,3,Não sabe/não lembra
+L030,9,Ignorado
+L031,1,Sim
+L031,2,Não
+L031,3,Não sabe/Não lembra
+L031,9,Ignorado
+L032,1,Sim
+L032,2,Não
+L032,3,Não sabe/Não lembra
+L032,9,Ignorado
+L033,1,Sim
+L033,2,Não
+L033,3,Não sabe/Não lembra
+L033,9,Ignorado
+L034,1,Sim
+L034,2,Não
+L034,3,Não sabe/Não lembra
+L034,9,Ignorado
+L035,1,Sim
+L035,2,Não
+L035,9,Ignorado
+L036,1,Mostrou o cartão/caderneta
+L036,2,Não mostrou o cartão/caderneta
+L036,9,Ignorado
+L037,1,Nenhuma dose/nenhuma dose registrada
+L037,2,Uma dose
+L037,3,Duas doses
+L037,4,Três doses
+L037,5,Reforço 1
+L037,6,Reforço 2
+L037,7,Registro não está legível
+L037,9,Ignorado
+L038,1,Nenhuma dose/nenhuma dose registrada
+L038,2,Uma dose
+L038,3,Duas doses
+L038,4,Três doses
+L038,5,Reforço 1
+L038,6,Reforço 2
+L038,7,Registro não está legível
+L038,9,Ignorado
+L039,1,Nenhuma dose/nenhuma dose registrada
+L039,2,Uma dose
+L039,3,Duas doses
+L039,4,Reforço
+L039,5,Registro não está legível
+L039,9,Ignorado
+L040,1,Nenhuma dose/nenhuma dose registrada
+L040,2,Uma dose
+L040,3,Duas doses
+L040,4,Registro não está legível
+L040,9,Ignorado
+L042,1,A mãe da criança
+L042,2,O pai da criança
+L042,3,Outro morador
+L042,4,Não morador
+L042,9,Ignorado
+M001,1,Realizada
+M001,2,Recusa
+M001,3,Morador não encontrado
+M001,9,Ignorado
+M002,1,Mãe moradora 
+M002,2,Mãe não moradora
+M002,3,Não sabe  
+M002,9,Ignorado
+M00203,1,Sim
+M00203,2,Não
+M00203,9 ,Ignorado
+M00302,1,Pessoa  moradora 
+M00302,2,Não morador
+M00303,1 a 7,Dias
+M00303,0,Não desloca
+M00303,8,Não sabe  
+M00401,0 a 24,Horas
+M00402,0 a 60,Minutos
+M005010,1,Sim
+M005010,2,Não
+M005011,01 a 10,Horas
+M00601,1, Menos de 1 vez por mês
+M00601,2, 1 a 3 vezes por mês
+M00601,3,1 vez por semana
+M00601,4,2 a 3 vezes por semana
+M00601,5,4 vezes por semana
+M00601,6,5 vezes ou mais por semana
+M007,1,Sim
+M007,2,Não
+M008,1, Menos de 1 vez por mês
+M008,2, 1 a 3 vezes por mês
+M008,3,1 vez por semana
+M008,4,2 a 3 vezes por semana
+M008,5,4 vezes por semana
+M008,6,5 vezes ou mais por semana
+M009,1,Fechados
+M009,2,Abertos
+M009,3,Ambos 
+M01001,1,Sim
+M01001,2,Não
+M011011,1,Sim
+M011011,2,Não
+M011021,1,Sim
+M011021,2,Não
+M011031,1,Sim
+M011031,2,Não
+M011041,1,Sim
+M011041,2,Não
+M011051,1,Sim
+M011051,2,Não
+M011061,1,Sim
+M011061,2,Não
+M011071,1,Sim
+M011071,2,Não
+M01401,0,Nenhum
+M01401,1,Um
+M01401,2,Dois
+M01401,3,Três ou mais
+M01501,0,Nenhum
+M01501,1,Um
+M01501,2,Dois
+M01501,3,Três ou mais
+M01601,1,Mais de uma vez por semana
+M01601,2,Uma vez por semana
+M01601,3,De 2 a 3 vezes por mês
+M01601,4,Algumas vezes no ano
+M01601,5,Uma vez no ano
+M01601,6,Nenhuma vez
+M01701,1,Mais de uma vez por semana
+M01701,2,Uma vez por semana
+M01701,3,De 2 a 3 vezes por mês
+M01701,4,Algumas vezes no ano
+M01701,5,Uma vez no ano
+M01701,6,Nenhuma vez
+M01801,1,Mais de uma vez por semana
+M01801,2,Uma vez por semana
+M01801,3,De 2 a 3 vezes por mês
+M01801,4,Algumas vezes no ano
+M01801,5,Uma vez no ano
+M01801,6,Nenhuma vez
+M01901,1,Mais de uma vez por semana
+M01901,2,Uma vez por semana
+M01901,3,De 2 a 3 vezes por mês
+M01901,4,Algumas vezes no ano
+M01901,5,Uma vez no ano
+M01901,6,Nenhuma vez
+N001,1,Muito boa
+N001,2,Boa
+N001,3,Regular
+N001,4,Ruim
+N001,5,Muito ruim
+N001,9 ,Ignorado
+N00101,1,Muito boa
+N00101,2,Boa
+N00101,3,Regular
+N00101,4,Ruim
+N00101,5,Muito ruim
+N00101,9 ,Ignorado
+N004,1,Sim
+N004,2,Não
+N004,9 ,Ignorado
+N005,1,Sim
+N005,2,Não
+N005,9 ,Ignorado
+N006,1,Para ou diminui a velocidade
+N006,2,Continua após tomar um remédio que dissolve na boca para aliviar a dor
+N006,3,Continua caminhando
+N006,9 ,Ignorado
+N00701,1,É aliviada em 10 minutos ou menos
+N00701,2,É aliviada em mais de 10 minutos
+N00701,3,Não é aliviada
+N00701,9 ,Ignorado
+N008,1,Acima ou no meio do peito
+N008,2,Abaixo do peito
+N008,3,Braço esquerdo
+N008,4,Outro
+N008,9 ,Ignorado
+N010,1, Nenhum dia
+N010,2,Menos da metade dos dias
+N010,3,Mais da metade dos dias
+N010,4,Quase todos dias
+N010,9 ,Ignorado
+N011,1, Nenhum dia
+N011,2,Menos da metade dos dias
+N011,3,Mais da metade dos dias
+N011,4,Quase todos dias
+N011,9 ,Ignorado
+N012,1, Nenhum dia
+N012,2,Menos da metade dos dias
+N012,3,Mais da metade dos dias
+N012,4,Quase todos dias
+N012,9 ,Ignorado
+N013,1, Nenhum dia
+N013,2,Menos da metade dos dias
+N013,3,Mais da metade dos dias
+N013,4,Quase todos dias
+N013,9 ,Ignorado
+N014,1, Nenhum dia
+N014,2,Menos da metade dos dias
+N014,3,Mais da metade dos dias
+N014,4,Quase todos dias
+N014,9 ,Ignorado
+N015,1, Nenhum dia
+N015,2,Menos da metade dos dias
+N015,3,Mais da metade dos dias
+N015,4,Quase todos dias
+N015,9 ,Ignorado
+N016,1, Nenhum dia
+N016,2,Menos da metade dos dias
+N016,3,Mais da metade dos dias
+N016,4,Quase todos dias
+N016,9 ,Ignorado
+N017,1, Nenhum dia
+N017,2,Menos da metade dos dias
+N017,3,Mais da metade dos dias
+N017,4,Quase todos dias
+N017,9 ,Ignorado
+N018,1, Nenhum dia
+N018,2,Menos da metade dos dias
+N018,3,Mais da metade dos dias
+N018,4,Quase todos dias
+N018,9 ,Ignorado
+O00101,1,Sim
+O00101,2,Não
+O00401,1,Sempre
+O00401,2,Quase sempre
+O00401,3,Às vezes
+O00401,4,Raramente
+O00401,5,Nunca
+O00402,1,Nunca anda no banco da frente 
+O00402,2,Sempre
+O00402,3,Quase sempre
+O00402,4,Às vezes
+O00402,5,Raramente
+O00402,6,Nunca
+O00501,1,Nunca anda no banco de trás
+O00501,2,Sempre
+O00501,3,Quase sempre
+O00501,4,Às vezes
+O00501,5,Raramente
+O00501,6,Nunca
+O00201,1,Sim
+O00201,2,Não
+O00701,1,Sempre
+O00701,2,Quase sempre
+O00701,3,Às vezes
+O00701,4,Raramente
+O00701,5,Nunca
+O00801,1,Nunca anda como passageiro
+O00801,2,Sempre
+O00801,3,Quase sempre
+O00801,4,Às vezes
+O00801,5,Raramente
+O00801,6,Nunca
+O00802,1,Sempre
+O00802,2,Quase sempre
+O00802,3,Às vezes
+O00802,4,Raramente
+O00802,5,Nunca
+O00803,1,Sempre
+O00803,2,Quase sempre
+O00803,3,Às vezes
+O00803,4,Raramente
+O00803,5,Nunca
+O009,1,Sim
+O009,2,Não
+O010,1,"Sim, quando estava trabalhando"
+O010,2,"Sim, quando estava indo ou voltando do trabalho "
+O010,3,Não
+O01102,01," Condutor(a) de automóvel (inclusive táxi, aplicativos de transporte e similares)"
+O01102,02 ,Condutor(a) de ônibus 
+O01102,03, Condutor (a) de caminhão
+O01102,04, Condutor(a) de motocicleta
+O01102,05, Condutor(a) de bicicleta
+O01102,06," Passageiro(a) de automóvel (inclusive táxi, aplicativos de transporte e similares) "
+O01102,07, Passageiro(a) de ônibus 
+O01102,08,Passageiro (a) de caminhão
+O01102,09, Passageiro(a) de motocicleta
+O01102,10, Passageiro(a) de bicicleta  
+O01102,11, Pedestre
+O01102,12,Outro
+O01401,1,Sim
+O01401,2,Não
+O01501,1,Sim
+O01501,2,Não
+O01602,01,No local do acidente
+O01602,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família).
+O01602,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+O01602,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+O01602,05, Ambulatório de hospital público.
+O01602,06,Consultório particular clínica privada ou ambulatório de hospital privado.
+O01602,07,Pronto atendimento ou emergência de hospital privado.
+O01602,08, No domicílio
+O01602,09,Outro
+O01702,1,SAMU
+O01702,2,Bombeiros
+O01702,3,Equipe de Resgate do setor privado (particular ou convênio)
+O01702,4, Equipe de Resgate da concessionária da rodovia 
+O01702,5,Outro 
+O019,1,Sim
+O019,2,Não
+O019,9 ,Ignorado
+O02001,1,Sim
+O02001,2,Não
+O02001,9 ,Ignorado
+O021,1,Sim
+O021,2,Não
+O021,3,Não se aplica
+O02201,1,Sim
+O02201,2,Não
+O023,1,Sim
+O023,2,Não
+O02401,1,Sim
+O02401,2,Não
+P00102,1,Sim
+P00102,2,Não sabe/Não lembra
+P00103,1 a 599,Quilogramas
+P00104,1 a 599,Quilogramas
+P00201,1,Menos de uma semana.
+P00201,2,De uma semana até menos de um mês
+P00201,3,De um mês até menos de três meses
+P00201,4,De três meses até menos de seis meses
+P00201,5,De seis meses ou mais
+P00201,6,Nunca se pesou
+P00201,9 ,Ignorado
+P00402,1,Sim
+P00402,2,Não sabe/Não lembra
+P00403,1 a 299,Centímetros
+P00403,999,Ignorado
+P00404,1 a 299,Centímetros
+P00404,999,Ignorado
+P00405,0,Não
+P00405,1,Sim
+P005,1,Sim
+P005,2,Não
+P005,3,Não sabe
+P00601,1,Sim
+P00601,2,Não
+P00601,9 ,Ignorado
+P00602,1,Sim
+P00602,2,Não
+P00602,9 ,Ignorado
+P00603,1,Sim
+P00603,2,Não
+P00603,9 ,Ignorado
+P00604,1,Sim
+P00604,2,Não
+P00604,9 ,Ignorado
+P00605,1,Sim
+P00605,2,Não
+P00605,9 ,Ignorado
+P00607,1,Sim
+P00607,2,Não
+P00607,9 ,Ignorado
+P00608,1,Sim
+P00608,2,Não
+P00608,9 ,Ignorado
+P00609,1,Sim
+P00609,2,Não
+P00609,9 ,Ignorado
+P00610,1,Sim
+P00610,2,Não
+P00610,9 ,Ignorado
+P00611,1,Sim
+P00611,2,Não
+P00611,9 ,Ignorado
+P00612,1,Sim
+P00612,2,Não
+P00612,9 ,Ignorado
+P00613,1,Sim
+P00613,2,Não
+P00613,9 ,Ignorado
+P00614,1,Sim
+P00614,2,Não
+P00614,9 ,Ignorado
+P00615,1,Sim
+P00615,2,Não
+P00615,9 ,Ignorado
+P00616,1,Sim
+P00616,2,Não
+P00616,9 ,Ignorado
+P00617,1,Sim
+P00617,2,Não
+P00617,9 ,Ignorado
+P00618,1,Sim
+P00618,2,Não
+P00618,9 ,Ignorado
+P00619,1,Sim
+P00619,2,Não
+P00619,9 ,Ignorado
+P00620,1,Sim
+P00620,2,Não
+P00620,9 ,Ignorado
+P00621,1,Sim
+P00621,2,Não
+P00621,9 ,Ignorado
+P00622,1,Sim
+P00622,2,Não
+P00622,9 ,Ignorado
+P00623,1,Sim
+P00623,2,Não
+P00623,9 ,Ignorado
+P006,1 a 7,Dias
+P006,0,Nunca ou menos de uma vez por semana
+P006,9 ,Ignorado
+P00901,1 a 7,Dias
+P00901,0,Nunca ou menos de uma vez por semana
+P00901,9 ,Ignorado
+P01001,1,Uma vez por dia (no almoço ou no jantar).
+P01001,2,Duas vezes por dia (no almoço e no jantar).        
+P01001,3,Três vezes ou mais por dia.
+P01001,9 ,Ignorado
+P01101,1 a 7,Dias
+P01101,0,Nunca ou menos de uma vez por semana.
+P01101,9 ,Ignorado
+P013,1 a 7,Dias
+P013,0,Nunca ou menos de uma vez por semana.
+P013,9 ,Ignorado
+P015,1 a 7,Dias
+P015,0,Nunca ou menos de uma vez por semana.
+P015,9 ,Ignorado
+P02001,1 a 7,Dias
+P02001,0,Nunca ou menos de uma vez por semana.
+P02001,9 ,Ignorado
+P02101,1,Diet/Light/Zero                                     
+P02101,2,Normal
+P02101,3,Ambos.
+P02101,9 ,Ignorado
+P01601,1 a 7,Dias
+P01601,0,Nunca ou menos de uma vez por semana. 
+P01601,9 ,Ignorado
+P018,1 a 7,Dias
+P018,0,Nunca ou menos de uma vez por semana.  
+P018,9 ,Ignorado
+P019,1,Uma vez por dia
+P019,2,Duas vezes por dia
+P019,3,Três vezes ou mais por dia.
+P019,9 ,Ignorado
+P02002,1 a 7,Dias
+P02002,0,Nunca ou menos de uma vez por semana. 
+P02002,9 ,Ignorado
+P02102,1,Diet/Light/Zero
+P02102,2,Normal
+P02102,3,Ambos
+P02102,9 ,Ignorado
+P023,1 a 7,Dias
+P023,0,Nunca ou menos de uma vez por semana.
+P023,9 ,Ignorado
+P02401,1,Desnatado ou semidesnatado.
+P02401,2,Integral
+P02401,3,Os dois tipos
+P02401,9 ,Ignorado
+P02501,1 a 7,Dias
+P02501,0,Nunca ou menos de uma vez por semana
+P02501,9 ,Ignorado
+P02602,1 a 7,Dias
+P02602,0,Nunca ou menos de uma vez por semana
+P02602,9 ,Ignorado
+P02601,1,Muito alto
+P02601,2,Alto
+P02601,3,Adequado
+P02601,4,Baixo
+P02601,5,Muito baixo
+P02601,9 ,Ignorado
+P027,1,Não bebo nunca
+P027,2,Menos de uma vez por mês
+P027,3,Uma vez ou mais por mês
+P027,9 ,Ignorado
+P02801,1 a 7,Dias
+P02801,0,Nunca ou menos de uma vez por semana
+P02801,9 ,Ignorado
+P029,1 a 98,Doses
+P029,99,Ignorado
+P03201,1,Sim
+P03201,2,Não
+P03201,9 ,Ignorado
+P03202,1 a 98,Doses
+P03202,99,Ignorado
+P03001,1,Sim
+P03001,2,Não
+P03001,9 ,Ignorado
+P03301,1,Nenhuma vez.
+P03301,2,Uma vez por mês ou menos
+P03301,3,Duas a quatro vezes por mês
+P03301,4,Duas a três vezes por semana
+P03301,5,Quatro ou mais vezes por semana
+P03301,9 ,Ignorado
+P03302,1,Nenhuma vez.
+P03302,2,Uma vez por mês ou menos
+P03302,3,Duas a quatro vezes por mês
+P03302,4,Duas a três vezes por semana
+P03302,5,Quatro ou mais vezes por semana
+P03302,9 ,Ignorado
+P03303,1,Não
+P03303,2,"Sim, em uma ocasião"
+P03303,3,"Sim, em mais de uma ocasião"
+P03303,9 ,Ignorado
+P034,1,Sim
+P034,2,Não
+P034,9 ,Ignorado
+P035,1 a 7,Dias
+P035,0,Nunca ou menos de uma vez por semana
+P035,9 ,Ignorado
+P03701,0 a 24,Horas
+P03701,9 ,Ignorado
+P03702,0 a 59,Minutos
+P03702,99,Ignorado
+P036,01,Caminhada (não vale para o trabalho)
+P036,02,Caminhada em esteira
+P036,03,Corrida/cooper
+P036,04,Corrida em esteira
+P036,05,Musculação
+P036,06,Ginástica aeróbica/spinning/step/jump
+P036,07,Hidroginástica
+P036,08,Ginástica / localizada/pilates/alongamento/ioga
+P036,09,Natação
+P036,10,Artes marciais e luta
+P036,11,Bicicleta/bicicleta ergométrica
+P036,12,Futebol
+P036,13,Basquetebol
+P036,14,Voleibol
+P036,15,Tênis
+P036,16,Dança (com o objetivo de praticar atividade física)
+P036,17,Outro 
+P036,99,Ignorado
+P038,1,Sim
+P038,2,Não
+P038,9 ,Ignorado
+P039,1,Sim
+P039,2,Não
+P039,9 ,Ignorado
+P03904,1 a 7 ,Dias
+P03904,9 ,Ignorado
+P03905,0 a 24,Horas
+P03905,9 ,Ignorado
+P03906,0 a 59,Minutos
+P03906,99,Ignorado
+P040,1,"Sim, todo o trajeto"
+P040,2,"Sim, parte do trajeto"
+P040,3,Não
+P040,9 ,Ignorado
+P04001,1 a 7 ,Dias
+P04001,0,Nunca ou menos de uma vez por semana
+P04001,9 ,Ignorado
+P04101,0 a 24,Horas
+P04101,99,Ignorado
+P04102,0 a 59,Minutos
+P04102,99,Ignorado
+P042,1  a 7 ,Dias
+P042,0,Nunca ou menos de uma vez por semana
+P042,9 ,Ignorado
+P04301,0 a 24,Horas
+P04301,99,Ignorado
+P04302,0 a 59,Minutos
+P04302,99,Ignorado
+P044,1,Sim
+P044,2,Não
+P044,9 ,Ignorado
+P04401,1 a 7,Dias
+P04401,9 ,Ignorado
+P04405,0 a 24,Horas
+P04405,99,Ignorado
+P04406,0 a 59,Minutos
+P04406,99,Ignorado
+P04501,1,Menos de uma hora
+P04501,2,De uma hora a menos de duas horas
+P04501,3,De duas horas a menos de três horas
+P04501,4,De três horas a menos de seis horas
+P04501,5,Seis horas ou mais
+P04501,6,Não assiste televisão
+P04501,9 ,Ignorado
+P04502,1,Menos de uma hora
+P04502,2,De uma hora a menos de duas horas
+P04502,3,De duas horas a menos de três horas
+P04502,4,De três horas a menos de seis horas
+P04502,5,Seis horas ou mais
+P04502,6,"Não costuma usar computador, tablet ou celular no tempo livre"
+P04502,9 ,Ignorado
+P046,1,Sim
+P046,2,Não
+P046,9 ,Ignorado
+P04701,1,Sim
+P04701,2,Não
+P04701,9 ,Ignorado
+P04801,1,Sim
+P04801,2,Não
+P04801,9 ,Ignorado
+P04902,1,Não é perto do meu domicílio
+P04902,2,O horário de funcionamento do programa é incompatível com minhas atividades de trabalho ou domésticas
+P04902,3,Não tem interesse nas atividades oferecidas
+P04902,4,O espaço não é seguro/iluminado
+P04902,5,Problemas de saúde ou incapacidade física
+P04902,6,Outro 
+P04902,9 ,Ignorado
+P050,1,"Sim, diariamente"
+P050,2,"Sim, menos que diariamente"
+P050,3,Não fumo atualmente
+P050,9 ,Ignorado
+P051,1,Sim
+P051,2,Não
+P051,9 ,Ignorado
+P052,1,"Sim, diariamente          "
+P052,2,"Sim, menos que diariamente           "
+P052,3,"Não, nunca fumei          "
+P052,9 ,Ignorado
+P053,1 a 98,Anos
+P053,99,Ignorado
+P05401,1,Um ou mais por dia
+P05401,2,Um ou mais por semana  
+P05401,3,Menos que uma vez por semana
+P05401,4,Menos do que um por mês
+P05401,5,Não fuma este produto 
+P05401,9 ,Ignorado
+P05402,1 a 98,Cigarros
+P05402,99,Ignorado
+P05403,1 a 98,Cigarros
+P05403,99,Ignorado
+P05404,1,Um ou mais por dia           
+P05404,2,Um ou mais por semana   
+P05404,3,Menos que uma vez por semana
+P05404,4,Menos do que um por mês
+P05404,5,Não fuma este produto
+P05404,9 ,Ignorado
+P05405,1 a 98,Cigarros
+P05405,99,Ignorado
+P05406,1 a 98,Cigarros
+P05406,99,Ignorado
+P05407,1,Um ou mais por dia            
+P05407,2,Um ou mais por semana   
+P05407,3,Menos que uma vez por semana
+P05407,4,Menos do que um por mês
+P05407,5,Não fuma este produto
+P05407,9 ,Ignorado
+P05408,1 a 98,Cigarros
+P05408,99,Ignorado
+P05409,1 a 98,Cigarros
+P05409,99,Ignorado
+P05410,1,Um ou mais por dia            
+P05410,2,Um ou mais por semana   
+P05410,3,Menos que uma vez por semana
+P05410,4,Menos do que um por mês
+P05410,5,Não fuma este produto
+P05410,9 ,Ignorado
+P05411,1 a 98,Cachimbos
+P05411,99,Ignorado
+P05412,1 a 98,Cachimbos
+P05412,99,Ignorado
+P05413,1,Um ou mais por dia           
+P05413,2,Um ou mais por semana   
+P05413,3,Menos que uma vez por semana
+P05413,4,Menos do que um por mês
+P05413,5,Não fuma este produto
+P05413,9 ,Ignorado
+P05414,1 a 98,charutos ou cigarrilhas
+P05414,99,Ignorado
+P05415,1 a 98,charutos ou cigarrilhas
+P05415,99,Ignorado
+P05416,1,Um ou mais por dia           
+P05416,2,Um ou mais por semana   
+P05416,3,Menos que uma vez por semana
+P05416,4,Menos do que um por mês
+P05416,5,Não fuma este produto
+P05416,9 ,Ignorado
+P05417,1 a 98,sessões de narguile
+P05417,99,Ignorado
+P05418,1 a 98,sessões de narguile
+P05418,99,Ignorado
+P05419,1,Um ou mais por dia           
+P05419,2,Um ou mais por semana   
+P05419,3,Menos que uma vez por semana
+P05419,4,Menos do que um por mês
+P05419,5,Não fuma este produto
+P05419,9 ,Ignorado
+P05421,1 a 98,Outro produto
+P05421,99,Ignorado
+P05422,1 a 98,Outro produto
+P05422,99,Ignorado
+P055,1,Até cinco minutos
+P055,2,De seis a 30 minutos
+P055,3,De 31 a 60 minutos
+P055,4,Mais de 60 minutos
+P055,9 ,Ignorado
+P056,1,Cigarros
+P056,2,Maços
+P056,3,Pacotes
+P056,4,Nunca comprei cigarros para uso próprio
+P056,9 ,Ignorado
+P05601,1 a 98,Cigarros
+P05601,99,Ignorado
+P05602,1 a 98,Maços
+P05602,99,Ignorado
+P05603,1 a 98,Cigarros
+P05603,99,Ignorado
+P05604,1 a 98,Pacotes
+P05604,99,Ignorado
+P05605,1 a 98,Maços
+P05605,99,Ignorado
+P057,valor em reais,R$
+P057,99999999,Ignorado
+P058,1,Um ou mais por dia           
+P058,2,Um ou mais por semana  
+P058,3,Menos que uma vez por semana 
+P058,4,Menos do que um por mês
+P058,5,Não fumava este produto
+P058,6,Não sabe
+P05801,1 a 98,Cigarros
+P05801,99,Ignorado
+P05802,1 a 98,Cigarros
+P05802,99,Ignorado
+P05901,1 a 98,Anos
+P05901,99,Ignorado
+P05902,1 a 11,Número de meses
+P05902,9,Ignorado
+P05903,1 a 3,Número de semanas
+P05903,9,Ignorado
+P05904,1 a 6,Número de dias
+P05904,9,Ignorado
+P05905,1,Sim
+P05905,2,Não
+P05905,3,Não passou por atendimento com profissional de saúde nos últimos doze meses.
+P05905,9,Ignorado
+P05906,1,Sim
+P05906,2,Não
+P05906,9 ,Ignorado
+P060,1,Sim
+P060,2,Não
+P060,9 ,Ignorado
+P06101,1,Sim
+P06101,2,Não
+P06101,9 ,Ignorado
+P06102,1,Sim
+P06102,2,Não
+P06102,9 ,Ignorado
+P06103,1,Sim
+P06103,2,Não
+P06103,9 ,Ignorado
+P06104,1,Sim
+P06104,2,Não
+P06104,9 ,Ignorado
+P06105,1,Sim
+P06105,2,Não
+P06105,9 ,Ignorado
+P06106,1,"Sim, todos"
+P06106,2,"Sim, alguns"
+P06106,3,"Não, nenhum"
+P06106,9 ,Ignorado
+P06302,01,"A consulta está marcada, mas ainda não foi realizada"
+P06302,02,O tempo de espera no serviço de saúde era muito grande
+P06302,03,Não conseguiu marcar
+P06302,04,Não sabia quem procurar ou aonde ir
+P06302,05,Estava com dificuldades financeiras
+P06302,06,O plano de saúde não cobria o tratamento
+P06302,07,O serviço de saúde era distante ou teve dificuldade de transporte
+P06302,08,O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas
+P06302,09,Não quis/Estou tentando parar sem ajuda de médico ou outro profissional de saúde
+P06302,10,Outro 
+P06302,99,Ignorado
+P067,1,"Sim, diariamente"
+P067,2,"Sim, menos que diariamente"
+P067,3,Não usa
+P067,9 ,Ignorado
+P06701,1,"Sim, diariamente"
+P06701,2,"Sim, menos do que diariamente"
+P06701,3,"Não, mas já usei no passado"
+P06701,4,Nunca usei
+P06701,9 ,Ignorado
+P068,1,Diariamente
+P068,2,Semanalmente
+P068,3,Mensalmente
+P068,4,Menos que mensalmente
+P068,5,Nunca
+P068,9 ,Ignorado
+P069,1,Sim
+P069,2,Não
+P069,3,Não sabe/Não lembra
+P06901,1,Sim
+P06901,2,Não
+P06901,3,Não sabe/Não lembra
+P07004,1,Sim
+P07004,2,Não
+P07004,3,Não sabe/Não lembra
+P07005,1,Sim
+P07005,2,Não
+P07005,3,Não sabe/Não lembra
+P07006,1,Sim
+P07006,2,Não
+P07006,3,Não sabe/Não lembra
+P07007,1,Sim
+P07007,2,Não
+P07007,3,Não sabe/Não lembra
+P07101,1,Sim
+P07101,2,Não
+P07101,3,Não sabe/Não lembra
+P07201,1,Sim
+P07201,2,Não
+P07201,9 ,Ignorado
+Q00101,1,Menos de 6 meses
+Q00101,2,De 6 meses a menos de 1 ano
+Q00101,3,De 1 ano a menos de  2 anos
+Q00101,4,De 2 anos a menos de 3 anos
+Q00101,5,3 anos ou mais
+Q00101,6,Nunca
+Q00101,9 ,Ignorado
+Q00201,1,Sim
+Q00201,2,Não
+Q00201,9 ,Ignorado
+Q00202,1,Sim
+Q00202,2,Não
+Q00202,9 ,Ignorado
+Q003,0,Menos de 1 ano
+Q003,01 a 98,Anos
+Q003,99,Ignorado
+Q00401,1,"Sim, regularmente            "
+Q00401,2,"Não, só quando tem algum problema"
+Q00401,3,Nunca vai ao médico para acompanhamento da hipertensão arterial
+Q00401,9 ,Ignorado
+Q00502,01,O serviço de saúde é distante ou tem dificuldade de transporte
+Q00502,02,O tempo de espera no serviço de saúde é muito grande
+Q00502,03,Tem dificuldades financeiras
+Q00502,04,Não acha necessário
+Q00502,05,O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas
+Q00502,06,Não conseguiu marcar consulta pelo plano
+Q00502,07,Não sabe quem procurar ou aonde ir
+Q00502,08,Não tem quem o(a) acompanhe
+Q00502,09,O serviço de saúde não tem médico ou não funciona regularmente 
+Q00502,10,A pressão está controlada
+Q00502,11,Outro 
+Q00502,99,Ignorado
+Q00503,1,Sim
+Q00503,2,Não
+Q00503,9 ,Ignorado
+Q00601,1,"Sim, todos "
+Q00601,2,"Sim, alguns"
+Q00601,3,"Não, nenhum"
+Q00601,9 ,Ignorado
+Q00602,1,Não conseguiu obter no serviço público de saúde
+Q00602,2,Não conseguiu o(s) medicamento(s) no Aqui Tem Farmácia Popular 
+Q00602,3,A farmácia era distante ou teve dificuldade de transporte
+Q00602,4,Não conseguiu encontrar todos os medicamentos para comprar na farmácia
+Q00602,5,Não tinha dinheiro para comprar
+Q00602,6,Não achou necessário
+Q00602,7,Não precisa mais tomar medicamentos porque a pressão está controlada 
+Q00602,8,Outro 
+Q00602,9 ,Ignorado
+Q00801,1,"Sim, todos                  "
+Q00801,2,"Sim, alguns"
+Q00801,3,"Não, nenhum"
+Q00801,9 ,Ignorado
+Q009,1,"Sim, todos                  "
+Q009,2,"Sim, alguns"
+Q009,3,"Não, nenhum"
+Q009,9 ,Ignorado
+Q010,1,Sim
+Q010,2,Não
+Q010,9 ,Ignorado
+Q01101,1,Menos de 6 meses
+Q01101,2,De 6 meses a menos de 1 ano
+Q01101,3,De 1 ano a menos de  2 anos
+Q01101,4,De 2 anos a menos de 3 anos
+Q01101,5,3 anos ou mais
+Q01101,6,Nunca
+Q01101,9 ,Ignorado
+Q01202,01,Farmácia
+Q01202,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+Q01202,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+Q01202,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público"
+Q01202,05,Ambulatório de hospital público
+Q01202,06,"Consultório particular clínica, privada ou ambulatório de hospital privado"
+Q01202,07,Pronto atendimento ou emergência de hospital privado
+Q01202,08,No domicílio
+Q01202,09,Outro serviço
+Q01202,99,Ignorado
+Q014,1,Sim
+Q014,2,Não
+Q014,9 ,Ignorado
+Q015,1,Sim
+Q015,2,Não
+Q015,3,Não sabe
+Q016,1,Sim
+Q016,2,Não
+Q016,9 ,Ignorado
+Q017,1,Sim
+Q017,2,Não
+Q017,3,"Não, pois não tinha realizado exames "
+Q017,9 ,Ignorado
+Q018010,1,Sim
+Q018010,2,Não
+Q018010,9 ,Ignorado
+Q018011,1,Sim
+Q018011,2,Não
+Q018011,9 ,Ignorado
+Q018012,1,Sim
+Q018012,2,Não
+Q018012,9 ,Ignorado
+Q018013,1,Sim
+Q018013,2,Não
+Q018013,9 ,Ignorado
+Q018014,1,Sim
+Q018014,2,Não
+Q018014,9 ,Ignorado
+Q018015,1,Sim
+Q018015,2,Não
+Q018015,9 ,Ignorado
+Q018016,1,Sim
+Q018016,2,Não
+Q018016,9 ,Ignorado
+Q018017,1,Sim
+Q018017,2,Não
+Q018017,9 ,Ignorado
+Q01910,1,Sim
+Q01910,2,Não
+Q01910,9 ,Ignorado
+Q019101,1,Sim
+Q019101,2,Não
+Q019101,3,"Não, mas está marcado"
+Q019101,9 ,Ignorado
+Q01911,1,Sim
+Q01911,2,Não
+Q01911,9 ,Ignorado
+Q019111,1,Sim
+Q019111,2,Não
+Q019111,3,"Não, mas está marcado"
+Q019111,9 ,Ignorado
+Q01912,1,Sim
+Q01912,2,Não
+Q01912,9 ,Ignorado
+Q019121,1,Sim
+Q019121,2,Não
+Q019121,3,"Não, mas está marcado"
+Q019121,9 ,Ignorado
+Q01913,1,Sim
+Q01913,2,Não
+Q01913,9 ,Ignorado
+Q019131,1,Sim
+Q019131,2,Não
+Q019131,3,"Não, mas está marcado"
+Q019131,9 ,Ignorado
+Q022,1,Sim
+Q022,2,Não
+Q022,3,"Não houve encaminhamento, pois todas as consultas para hipertensão foram com médico especialista"
+Q022,9 ,Ignorado
+Q02301,1,"Sim, todas                  "
+Q02301,2,"Sim, algumas"
+Q02301,3,"Não, nenhuma"
+Q02301,9 ,Ignorado
+Q026,1,Sim
+Q026,2,Não
+Q026,9 ,Ignorado
+Q02701,1,Menos de 6 meses
+Q02701,2,De 6 meses a menos de 1 ano
+Q02701,3,De 1 ano a menos de  2 anos
+Q02701,4,De 2 anos a menos de 3 anos
+Q02701,5,3 anos ou mais
+Q02701,9 ,Ignorado
+Q028,1,Não limita
+Q028,2,Um pouco
+Q028,3,Moderadamente
+Q028,4,Intensamente
+Q028,5,Muito intensamente
+Q028,9 ,Ignorado
+Q02901,1,Menos de 6 meses
+Q02901,2,De 6 meses a menos de 1 ano
+Q02901,3,De 1 ano a menos de  2 anos
+Q02901,4,De 2 anos a menos de 3 anos
+Q02901,5,3 anos ou mais
+Q02901,6,Nunca fez
+Q02901,9 ,Ignorado
+Q03001,1,Sim
+Q03001,2,Não
+Q03001,9 ,Ignorado
+Q03002,1,Sim
+Q03002,2,Não
+Q03002,9 ,Ignorado
+Q031,0,Menos de 1 ano
+Q031,01 a 98,Anos
+Q031,99,Ignorado
+Q03201,1,"Sim, regularmente        "
+Q03201,2,"Não, só quando tem algum problema"
+Q03201,3,Nunca vai ao médico para acompanhamento da diabetes
+Q03201,9 ,Ignorado
+Q03302,1,O local de atendimento é distante ou tem dificuldade de transporte
+Q03302,2,O tempo de espera no serviço de saúde é muito grande
+Q03302,3,Tem dificuldades financeiras
+Q03302,4,Não acha necessário
+Q03302,5,O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas
+Q03302,6,Não conseguiu marcar consulta pelo plano de saúde
+Q03302,7,Não sabe quem procurar ou aonde ir
+Q03302,8,Não tem quem o(a) acompanhe
+Q03302,9,O serviço de saúde não tem médico ou não funciona regularmente
+Q03302,10,O diabetes está controlado
+Q03302,11,Outro 
+Q03302,99,Ignorado
+Q03303,1,Sim
+Q03303,2,Não
+Q03303,9 ,Ignorado
+Q03403,1,"Sim, todos                  "
+Q03403,2,"Sim, alguns"
+Q03403,3,"Não, nenhum"
+Q03403,9 ,Ignorado
+Q03404,01,Não conseguiu obter no serviço público de saúde
+Q03404,02,Não conseguiu o(s) medicamento(s) no Aqui Tem Farmácia Popular 
+Q03404,03,A farmácia era distante ou teve dificuldade de transporte
+Q03404,04,Não conseguiu encontrar todos os medicamentos para comprar na farmácia
+Q03404,05,Não tinha dinheiro para comprar
+Q03404,06,Não achou necessário
+Q03404,07,Não precisa mais tomar medicamentos porque a diabetes está controlada 
+Q03404,08,Outro 
+Q03404,99,Ignorado
+Q03601,1,"Sim, todos                  "
+Q03601,2,"Sim, alguns"
+Q03601,3,"Não, nenhum"
+Q03601,9 ,Ignorado
+Q03701,1,"Sim, todos                  "
+Q03701,2,"Sim, alguns"
+Q03701,3,"Não, nenhum"
+Q03701,9 ,Ignorado
+Q03801,1,Sim
+Q03801,2,Não
+Q03801,9 ,Ignorado
+Q03802,1,Sim
+Q03802,2,Não
+Q03802,9 ,Ignorado
+Q03803,1,Sim
+Q03803,2,Não
+Q03803,9 ,Ignorado
+Q03804,1,Não conseguiu obter no serviço público de saúde
+Q03804,2,Não conseguiu o(s) medicamento(s) no Aqui Tem Farmácia Popular 
+Q03804,3,A farmácia era distante ou teve dificuldade de transporte
+Q03804,4,Não conseguiu encontrar insulina para comprar na farmácia
+Q03804,5,Não tinha dinheiro para comprar
+Q03804,6,Não achou necessário
+Q03804,7,Não precisa mais tomar medicamentos porque a diabetes está controlada sem a insulina
+Q03804,8,Outro 
+Q03804,9 ,Ignorado
+Q03805,1,Sim
+Q03805,2,Não
+Q03805,9 ,Ignorado
+Q03806,1,Sim
+Q03806,2,Não
+Q03806,9 ,Ignorado
+Q03807,1,Sim
+Q03807,2,Não
+Q03807,9 ,Ignorado
+Q03901,1,Menos de 6 meses
+Q03901,2,De 6 meses a menos de 1 ano
+Q03901,3,De 1 ano a menos de  2 anos
+Q03901,4,De 2 anos a menos de 3 anos
+Q03901,5,3 anos ou mais
+Q03901,6,Nunca fez
+Q03901,9 ,Ignorado
+Q04002,01,Farmácia
+Q04002,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+Q04002,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+Q04002,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público"
+Q04002,05,Ambulatório de hospital público
+Q04002,06,Consultório particular clínica privada ou ambulatório de hospital privado
+Q04002,07,Pronto atendimento ou emergência de hospital privado
+Q04002,08,No domicílio
+Q04002,09,Outro serviço
+Q04002,99,Ignorado
+Q042,1,Sim
+Q042,2,Não
+Q042,9 ,Ignorado
+Q043,1,Sim
+Q043,2,Não
+Q043,3,Não sabe/Não lembra
+Q044,1,Sim
+Q044,2,Não
+Q044,9 ,Ignorado
+Q045,1,Sim
+Q045,2,Não
+Q045,3,"Não, pois não tinha realizado exames "
+Q045,9 ,Ignorado
+Q046011,1,Sim
+Q046011,2,Não
+Q046011,9 ,Ignorado
+Q046012,1,Sim
+Q046012,2,Não
+Q046012,9 ,Ignorado
+Q046013,1,Sim
+Q046013,2,Não
+Q046013,9 ,Ignorado
+Q046014,1,Sim
+Q046014,2,Não
+Q046014,9 ,Ignorado
+Q046015,1,Sim
+Q046015,2,Não
+Q046015,9 ,Ignorado
+Q046016,1,Sim
+Q046016,2,Não
+Q046016,9 ,Ignorado
+Q046017,1,Sim
+Q046017,2,Não
+Q046017,9 ,Ignorado
+Q046018,1,Sim
+Q046018,2,Não
+Q046018,9 ,Ignorado
+Q046019,1,Sim
+Q046019,2,Não
+Q046019,9 ,Ignorado
+Q046020,1,Sim
+Q046020,2,Não
+Q046020,9 ,Ignorado
+Q046021,1,Sim
+Q046021,2,Não
+Q046021,9 ,Ignorado
+Q04707,1,Sim
+Q04707,2,Não
+Q04707,9 ,Ignorado
+Q047071,1,Sim
+Q047071,2,Não
+Q047071,3,"Não, mas está marcado"
+Q047071,9 ,Ignorado
+Q04708,1,Sim
+Q04708,2,Não
+Q04708,9 ,Ignorado
+Q047081,1,Sim
+Q047081,2,Não
+Q047081,3,"Não, mas está marcado"
+Q047081,9 ,Ignorado
+Q04709,1,Sim
+Q04709,2,Não
+Q04709,9 ,Ignorado
+Q047091,1,Sim
+Q047091,2,Não
+Q047091,3,"Não, mas está marcado"
+Q047091,9 ,Ignorado
+Q04710,1,Sim
+Q04710,2,Não
+Q04710,9 ,Ignorado
+Q047101,1,Sim
+Q047101,2,Não
+Q047101,3,"Não, mas está marcado"
+Q047101,9 ,Ignorado
+Q04711,1,Sim
+Q04711,2,Não
+Q04711,9 ,Ignorado
+Q047111,1,Sim
+Q047111,2,Não
+Q047111,3,"Não, mas está marcado"
+Q047111,9 ,Ignorado
+Q050,1,Sim
+Q050,2,Não
+Q050,3,"Não houve encaminhamento, pois todas as consultas para diabetes foram com médico especialista"
+Q050,9 ,Ignorado
+Q05101,1,"Sim, todas                  "
+Q05101,2,"Sim, algumas"
+Q05101,3,"Não, nenhuma"
+Q05101,9 ,Ignorado
+Q05301,1,Menos de 6 meses
+Q05301,2,De 6 meses a menos de 1 ano
+Q05301,3,De 1 ano a menos de  2 anos
+Q05301,4,De 2 anos a menos de 3 anos
+Q05301,5,3 anos ou mais
+Q05301,6,Nunca fez
+Q05301,9 ,Ignorado
+Q05401,1,Menos de 6 meses
+Q05401,2,De 6 meses a menos de 1 ano
+Q05401,3,De 1 ano a menos de  2 anos
+Q05401,4,De 2 anos a menos de 3 anos
+Q05401,5,3 anos ou mais
+Q05401,6,Nunca teve os pés examinados
+Q05401,9 ,Ignorado
+Q055011,1,Sim
+Q055011,2,Não
+Q055011,9 ,Ignorado
+Q055012,1,Sim
+Q055012,2,Não
+Q055012,9 ,Ignorado
+Q055013,1,Sim
+Q055013,2,Não
+Q055013,9 ,Ignorado
+Q055014,1,Sim
+Q055014,2,Não
+Q055014,9 ,Ignorado
+Q055015,1,Sim
+Q055015,2,Não
+Q055015,9 ,Ignorado
+Q055016,1,Sim
+Q055016,2,Não
+Q055016,9 ,Ignorado
+Q056,1,Sim
+Q056,2,Não
+Q056,9 ,Ignorado
+Q05701,1,Menos de 6 meses
+Q05701,2,De 6 meses a menos de 1 ano
+Q05701,3,De 1 ano a menos de  2 anos
+Q05701,4,De 2 anos a menos de 3 anos
+Q05701,5,3 anos ou mais
+Q05701,9 ,Ignorado
+Q058,1,Não limita
+Q058,2,Um pouco
+Q058,3,Moderadamente
+Q058,4,Intensamente
+Q058,5,Muito intensamente
+Q058,9 ,Ignorado
+Q05901,1,Menos de 6 meses
+Q05901,2,De 6 meses a menos de 1 ano
+Q05901,3,De 1 ano a menos de  2 anos
+Q05901,4,De 2 anos a menos de 3 anos
+Q05901,5,3 anos ou mais
+Q05901,6,Nunca fez
+Q05901,9 ,Ignorado
+Q060,1,Sim
+Q060,2,Não
+Q060,9 ,Ignorado
+Q061,0,Menos de 1 ano
+Q061,01 a 98,Anos
+Q061,99,Ignorado
+Q06207,1,Sim
+Q06207,2,Não
+Q06207,9 ,Ignorado
+Q06208,1,Sim
+Q06208,2,Não
+Q06208,9 ,Ignorado
+Q06209,1,Sim
+Q06209,2,Não
+Q06209,9 ,Ignorado
+Q06210,1,Sim
+Q06210,2,Não
+Q06210,9 ,Ignorado
+Q06211,1,Sim
+Q06211,2,Não
+Q06211,9 ,Ignorado
+Q06212,1,Sim
+Q06212,2,Não
+Q06212,9 ,Ignorado
+Q06306,1,Sim
+Q06306,2,Não
+Q06306,9 ,Ignorado
+Q06307,1,Sim
+Q06307,2,Não
+Q06307,9 ,Ignorado
+Q06308,1,Sim
+Q06308,2,Não
+Q06308,9 ,Ignorado
+Q06309,1,Sim
+Q06309,2,Não
+Q06309,9 ,Ignorado
+Q06310,1,Sim
+Q06310,2,Não
+Q06310,9 ,Ignorado
+Q06311,1,Sim
+Q06311,2,Não
+Q06311,9 ,Ignorado
+Q064,0,Menos de 1 ano
+Q064,01 a 98,Anos
+Q064,99,Ignorado
+Q06506,1,Sim
+Q06506,2,Não
+Q06506,9 ,Ignorado
+Q06507,1,Sim
+Q06507,2,Não
+Q06507,9 ,Ignorado
+Q06508,1,Sim
+Q06508,2,Não
+Q06508,9 ,Ignorado
+Q06509,1,Sim
+Q06509,2,Não
+Q06509,9 ,Ignorado
+Q06601,1,Sim
+Q06601,2,Não
+Q06601,9 ,Ignorado
+Q067,1,Não limita
+Q067,2,Um pouco
+Q067,3,Moderadamente
+Q067,4,Intensamente
+Q067,5,Muito intensamente
+Q067,9 ,Ignorado
+Q068,1,Sim
+Q068,2,Não
+Q068,9 ,Ignorado
+Q070,0,Menos de 1 ano
+Q070,01 a 98,Anos
+Q070,99,Ignorado
+Q07208,1,Sim
+Q07208,2,Não
+Q07208,9 ,Ignorado
+Q07209,1,Sim
+Q07209,2,Não
+Q07209,9 ,Ignorado
+Q07210,1,Sim
+Q07210,2,Não
+Q07210,9 ,Ignorado
+Q07211,1,Sim
+Q07211,2,Não
+Q07211,9 ,Ignorado
+Q07212,1,Sim
+Q07212,2,Não
+Q07212,9 ,Ignorado
+Q07213,1,Sim
+Q07213,2,Não
+Q07213,9 ,Ignorado
+Q073,1,Não limita
+Q073,2,Um pouco
+Q073,3,Moderadamente
+Q073,4,Intensamente
+Q073,5,Muito intensamente
+Q073,9 ,Ignorado
+Q074,1,Sim
+Q074,2,Não
+Q074,9 ,Ignorado
+Q075,0,Menos de 1 ano
+Q075,01 a 98,Anos
+Q075,99,Ignorado
+Q076,1,Sim
+Q076,2,Não
+Q076,9 ,Ignorado
+Q07601,1,Sim
+Q07601,2,Não
+Q07601,9 ,Ignorado
+Q07704,1,"Sim, todos                  "
+Q07704,2,"Sim, alguns"
+Q07704,3,"Não, nenhum"
+Q07704,9 ,Ignorado
+Q07705,1,"Sim, todos                  "
+Q07705,2,"Sim, alguns"
+Q07705,3,"Não, nenhum"
+Q07705,9 ,Ignorado
+Q07706,1,"Sim, todos                  "
+Q07706,2,"Sim, alguns"
+Q07706,3,"Não, nenhum"
+Q07706,9 ,Ignorado
+Q07707,1,Sim
+Q07707,2,Não
+Q07707,9 ,Ignorado
+Q07708,1,Sim
+Q07708,2,Não
+Q07708,9 ,Ignorado
+Q07709,1,"Sim, todos                  "
+Q07709,2,"Sim, alguns"
+Q07709,3,"Não, nenhum"
+Q07709,9 ,Ignorado
+Q07710,1,"Sim, todos                  "
+Q07710,2,"Sim, alguns"
+Q07710,3,"Não, nenhum"
+Q07710,9 ,Ignorado
+Q07711,1,Sim
+Q07711,2,Não
+Q07711,9 ,Ignorado
+Q078,1,Não limita
+Q078,2,Um pouco
+Q078,3,Moderadamente
+Q078,4,Intensamente
+Q078,5,Muito intensamente
+Q078,9 ,Ignorado
+Q079,1,Sim
+Q079,2,Não
+Q079,9 ,Ignorado
+Q080,0,Menos de 1 ano
+Q080,01 a 98,Anos
+Q080,99,Ignorado
+Q08107,1,Sim
+Q08107,2,Não
+Q08107,9 ,Ignorado
+Q08108,1,Sim
+Q08108,2,Não
+Q08108,9 ,Ignorado
+Q08109,1,Sim
+Q08109,2,Não
+Q08109,9 ,Ignorado
+Q08110,1,Sim
+Q08110,2,Não
+Q08110,9 ,Ignorado
+Q08111,1,Sim
+Q08111,2,Não
+Q08111,9 ,Ignorado
+Q082,1,Sim
+Q082,2,Não
+Q082,9 ,Ignorado
+Q083,1,Não limita
+Q083,2,Um pouco
+Q083,3,Moderadamente
+Q083,4,Intensamente
+Q083,5,Muito intensamente
+Q083,9 ,Ignorado
+Q084,1,Sim
+Q084,2,Não
+Q084,9 ,Ignorado
+Q085,0,Menos de 1 ano
+Q085,01 a 98,Anos
+Q085,99,Ignorado
+Q08607,1,Sim
+Q08607,2,Não
+Q08607,9 ,Ignorado
+Q08608,1,Sim
+Q08608,2,Não
+Q08608,9 ,Ignorado
+Q08609,1,Sim
+Q08609,2,Não
+Q08609,9 ,Ignorado
+Q08610,1,Sim
+Q08610,2,Não
+Q08610,9 ,Ignorado
+Q08611,1,Sim
+Q08611,2,Não
+Q08611,9 ,Ignorado
+Q087,1,Não limita
+Q087,2,Um pouco
+Q087,3,Moderadamente
+Q087,4,Intensamente
+Q087,5,Muito intensamente
+Q087,9 ,Ignorado
+Q088,1,Sim
+Q088,2,Não
+Q088,9 ,Ignorado
+Q08901,0,Menos de 1 ano
+Q08901,01 a 98,Anos
+Q08901,99,Ignorado
+Q09007,1,Sim
+Q09007,2,Não
+Q09007,9 ,Ignorado
+Q09008,1,Sim
+Q09008,2,Não
+Q09008,9 ,Ignorado
+Q09009,1,Sim
+Q09009,2,Não
+Q09009,9 ,Ignorado
+Q09010,1,Sim
+Q09010,2,Não
+Q09010,9 ,Ignorado
+Q09011,1,Sim
+Q09011,2,Não
+Q09011,9 ,Ignorado
+Q091,1,Não limita
+Q091,2,Um pouco
+Q091,3,Moderadamente
+Q091,4,Intensamente
+Q091,5,Muito intensamente
+Q091,9 ,Ignorado
+Q092,1,Sim
+Q092,2,Não
+Q092,9 ,Ignorado
+Q09201,1,Sim
+Q09201,2,Não
+Q09201,3,Não sabe/não respondeu
+Q09202,1,"Sim, todos                  "
+Q09202,2,"Sim, alguns"
+Q09202,3,"Não, nenhum"
+Q09202,4,Não sabe/não respondeu
+Q09301,0,Menos de 1 ano
+Q09301,01 a 98,Anos
+Q09301,99,Ignorado
+Q094,1,Sim
+Q094,2,"Não, só quando tem algum problema "
+Q094,3,Nunca vai 
+Q094,9 ,Ignorado
+Q09502,01,Não está mais deprimido
+Q09502,02,O serviço de saúde é distante ou tem dificuldade de transporte
+Q09502,03,Não tem ânimo
+Q09502,04,O tempo de espera no serviço de saúde é muito grande
+Q09502,05,Tem dificuldades financeiras
+Q09502,06,O horário de funcionamento do serviço de saúde é incompatível com suas atividades de trabalho ou domésticas
+Q09502,07,Não conseguiu marcar consulta pelo plano de saúde 
+Q09502,08,Não sabe quem procurar ou aonde ir
+Q09502,09,Outro 
+Q09502,99,Ignorado
+Q09605,1,Sim
+Q09605,2,Não
+Q09605,9 ,Ignorado
+Q09606,1,Sim
+Q09606,2,Não
+Q09606,9 ,Ignorado
+Q09607,1,Sim
+Q09607,2,Não
+Q09607,9 ,Ignorado
+Q098,1,"Sim, todos                  "
+Q098,2,"Sim, alguns"
+Q098,3,"Não, nenhum"
+Q098,9 ,Ignorado
+Q100,1,Sim
+Q100,2,Não
+Q100,9 ,Ignorado
+Q10101,1,Menos de 6 meses
+Q10101,2,De 6 meses a menos de 1 ano
+Q10101,3,De 1 ano a menos de  2 anos
+Q10101,4,De 2 anos a menos de 3 anos
+Q10101,5,3 anos ou mais
+Q10101,6,Nunca fez
+Q10101,9 ,Ignorado
+Q10202,01,Farmácia
+Q10202,02,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+Q10202,03,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+Q10202,04,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público"
+Q10202,05,Ambulatório de hospital público
+Q10202,06,"Consultório particular, clínica privada ou ambulatório de hospital privado"
+Q10202,07,Pronto atendimento ou emergência de hospital privado
+Q10202,08,No domicílio
+Q10202,09,Outro serviço
+Q10202,99,Ignorado
+Q104,1,Sim
+Q104,2,Não
+Q104,9 ,Ignorado
+Q105,1,Sim
+Q105,2,Não
+Q105,3,Não sabe/Não lembra
+Q106,1,Sim
+Q106,2,Não
+Q106,3,"Não houve encaminhamento, pois todas as consultas para depressão foram com profissional de saúde mental"
+Q106,9 ,Ignorado
+Q10701,1,"Sim, todas                  "
+Q10701,2,"Sim, algumas"
+Q10701,3,"Não, nenhuma"
+Q10701,9 ,Ignorado
+Q109,1,Não limita
+Q109,2,Um pouco
+Q109,3,Moderadamente
+Q109,4,Intensamente
+Q109,5,Muito intensamente
+Q109,9 ,Ignorado
+Q11006,1,Sim
+Q11006,2,Não
+Q11006,9 ,Ignorado
+Q11007,1,Sim
+Q11007,2,Não
+Q11007,9 ,Ignorado
+Q11008,1,Sim
+Q11008,2,Não
+Q11008,9 ,Ignorado
+Q11009,1,Sim
+Q11009,2,Não
+Q11009,9 ,Ignorado
+Q11010,1,Sim
+Q11010,2,Não
+Q11010,9 ,Ignorado
+Q111,0,Menos de 1 ano
+Q111,01 a 98,Anos
+Q111,99,Ignorado
+Q11201,1,Sim
+Q11201,2,Não
+Q11201,3,"Não, só quando tenho algum problema"
+Q11201,9 ,Ignorado
+Q11405,1,Sim
+Q11405,2,Não
+Q11405,9 ,Ignorado
+Q11406,1,Sim
+Q11406,2,Não
+Q11406,9 ,Ignorado
+Q11407,1,Sim
+Q11407,2,Não
+Q11407,9 ,Ignorado
+Q11408,1,Sim
+Q11408,2,Não
+Q11408,9 ,Ignorado
+Q115,1,Não limita
+Q115,2,Um pouco
+Q115,3,Moderadamente
+Q115,4,Intensamente
+Q115,5,Muito intensamente
+Q115,9 ,Ignorado
+Q11604,1,Sim
+Q11604,2,Não
+Q11604,9 ,Ignorado
+Q11605,1,Sim
+Q11605,2,Não
+Q11605,9 ,Ignorado
+Q11606,1,Sim
+Q11606,2,Não
+Q11606,9 ,Ignorado
+Q11607,1,Sim
+Q11607,2,Não
+Q11607,9 ,Ignorado
+Q11701,0,Menos de 1 ano
+Q11701,01 a 98,Anos
+Q11701,99,Ignorado
+Q11806,1,Sim
+Q11806,2,Não
+Q11806,9 ,Ignorado
+Q11807,1,Sim
+Q11807,2,Não
+Q11807,9 ,Ignorado
+Q11808,1,Sim
+Q11808,2,Não
+Q11808,9 ,Ignorado
+Q11809,1,Sim
+Q11809,2,Não
+Q11809,9 ,Ignorado
+Q119,1,Não limita
+Q119,2,Um pouco
+Q119,3,Moderadamente
+Q119,4,Intensamente
+Q119,5,Muito intensamente
+Q119,9 ,Ignorado
+Q120,1,Sim
+Q120,2,Não
+Q120,9 ,Ignorado
+Q12102,1,Sim
+Q12102,2,Não
+Q12102,9 ,Ignorado
+Q12103,1,Sim
+Q12103,2,Não
+Q12103,3,Não sei
+Q12103,9 ,Ignorado
+Q12104,1,Sim
+Q12104,2,Não
+Q12104,9 ,Ignorado
+Q12105,1,Sim
+Q12105,2,Não
+Q12105,9 ,Ignorado
+Q12106,1,Sim
+Q12106,2,Não
+Q12106,9 ,Ignorado
+Q12107,1,Sim
+Q12107,2,Não
+Q12107,9 ,Ignorado
+Q12108,1,Sim
+Q12108,2,Não
+Q12108,9 ,Ignorado
+Q12109,1,Sim
+Q12109,2,Não
+Q12109,9 ,Ignorado
+Q121010,1,Sim
+Q121010,2,Não
+Q121010,9 ,Ignorado
+Q121011,1,Sim
+Q121011,2,Não
+Q121011,9 ,Ignorado
+Q121012,1,Sim
+Q121012,2,Não
+Q121012,9 ,Ignorado
+Q121013,1,Sim
+Q121013,2,Não
+Q121013,9 ,Ignorado
+Q121014,1,Sim
+Q121014,2,Não
+Q121014,9 ,Ignorado
+Q121015,1,Sim
+Q121015,2,Não
+Q121015,9 ,Ignorado
+Q121016,1,Sim
+Q121016,2,Não
+Q121016,9 ,Ignorado
+Q12201,0,Menos de 1 ano
+Q12201,01 a 98,Anos
+Q12201,99,Ignorado
+Q12301,1,Não limita
+Q12301,2,Um pouco
+Q12301,3,Moderadamente
+Q12301,4,Intensamente
+Q12301,5,Muito intensamente
+Q12301,9 ,Ignorado
+Q124,1,Sim
+Q124,2,Não
+Q124,9 ,Ignorado
+Q125,0,Menos de 1 ano
+Q125,01 a 98,Anos
+Q125,99,Ignorado
+Q12501,1,Sim
+Q12501,2,Não
+Q12501,9,Ignorado
+Q12607,1,Sim
+Q12607,2,Não
+Q12607,9,Ignorado
+Q12608,1,Sim
+Q12608,2,Não
+Q12608,9,Ignorado
+Q12609,1,Sim
+Q12609,2,Não
+Q12609,9,Ignorado
+Q12610,1,Sim
+Q12610,2,Não
+Q12610,9,Ignorado
+Q127,1,Não limita
+Q127,2,Um pouco
+Q127,3,Moderadamente
+Q127,4,Intensamente
+Q127,5,Muito intensamente
+Q127,9,Ignorado
+Q128,1,Sim
+Q128,2,Não
+Q128,9,Ignorado
+Q132,1,Sim
+Q132,2,Não
+Q132,9,Ignorado
+Q133,1 a 14,Número de dias
+Q133,99,Ignorado
+Q134,1,Sim
+Q134,2,Não
+Q134,9 ,Ignorado
+R00101,1,Há menos de 1 ano 
+R00101,2, De 1 ano a menos de 2 anos
+R00101,3,De 2 anos a menos de 3 anos
+R00101,4,Há 3 anos ou mais 
+R00101,5,Nunca fez
+R00101,9 ,Ignorado
+R002010,01,Nunca teve relações sexuais
+R002010,02,Não acha necessário
+R002010,03,Tem vergonha
+R002010,04,Não foi orientada para fazer o exame 
+R002010,05,Não sabe quem procurar ou aonde ir
+R002010,06,Tem dificuldades financeiras
+R002010,07,O tempo de espera no serviço de saúde era muito grande
+R002010,08,O serviço de saúde era distante ou teve dificuldade de transporte
+R002010,09,O horário de funcionamento do serviço era incompatível com suas atividades de trabalho ou domésticas
+R002010,10,Não conseguiu marcar consulta pelo plano de saúde
+R002010,11,"Está marcado, mas ainda não realizou"
+R002010,12,Fez cirurgia de retirada do útero/histerectomia
+R002010,13,Outro 
+R002010,99,Ignorado
+R004,1,Sim
+R004,2,Não
+R004,9,Ignorado
+R005,1,Sim
+R005,2,Não 
+R005,3,Não sabe\Não lembra
+R00601,1,Menos de 1 mês depois
+R00601,2,De 1 mês a menos de 3 meses depois
+R00601,3,De 3 meses a menos de 6 meses depois
+R00601,4,6 meses ou mais depois
+R00601,5,Ainda não recebi
+R00601,6,Nunca recebi
+R00601,7,Nunca fui buscar
+R00601,9,Ignorado
+R007,1,Sim
+R007,2,Não
+R007,3,"Não houve encaminhamento pois, todas as minhas consultas por este motivo foram com médico especialista "
+R007,9 ,Ignorado
+R008,1,Sim
+R008,2,Não
+R008,9,Ignorado
+R009010,01,"A consulta está marcada, mas ainda não foi à consulta"
+R009010,02,Não achou necessário
+R009010,03,Não sabia quem procurar ou aonde ir
+R009010,04,Estava com dificuldades financeiras
+R009010,05,Não conseguiu marcar
+R009010,06,O tempo de espera no serviço de saúde era muito grande
+R009010,07,Não conseguiu marcar consulta pelo plano de saúde
+R009010,08,O serviço de saúde era distante ou eve dificuldades de transporte
+R009010,09,O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas
+R009010,10,Outro
+R009010,99,Ignorado
+R010,1,Sim
+R010,2,Não
+R010,9,Ignorado
+R011,1,Mioma uterino
+R011,2,Prolapso do útero (útero caído)
+R011,3,Endometriose
+R011,4,Câncer ginecológico
+R011,5,Complicações da gravidez ou parto
+R011,6,Sangramento vaginal anormal
+R011,7,Outro
+R011,9,Ignorado
+R012,08 a 80,Número de anos
+R012,99,Ignorado
+R013,1,Menos de 1 ano atrás
+R013,2,De 1 ano a menos de 2 anos atrás
+R013,3,De 2 anos a menos de 3 anos atrás
+R013,4,3 anos ou mais atrás
+R013,5,Nunca fez
+R013,9,Ignorado
+R014,1,Sim
+R014,2,Não
+R014,9,Ignorado
+R015,1,Sim
+R015,2,Não
+R015,9,Ignorado
+R01701,1, Menos de 1 ano atrás
+R01701,2, De 1 ano a menos de 2 anos
+R01701,3, De 2 anos a menos de 3 anos
+R01701,4, 3 anos ou mais atrás
+R01701,9,Ignorado
+R019,1,Sim
+R019,2,Não
+R019,9,Ignorado
+R020,1,Sim
+R020,2,Não
+R020,3,Não sabe\Não lembra
+R02101,1,Menos de 1 mês depois
+R02101,2,Entre 1 mês e menos de 3 meses depois
+R02101,3,Entre 3 meses e menos de 6 meses depois
+R02101,4,6 meses ou mais depois
+R02101,5,Nunca recebi
+R02101,6,Nunca fui buscar
+R02101,7,Ainda não recebi
+R02101,9,Ignorado
+R022,1,Sim
+R022,2,Não
+R022,3,"Não houve encaminhamento, pois todas as minhas consultas por este motivo foram com médico especialista "
+R022,9,Ignorado
+R023,1,Sim
+R023,2,Não
+R023,9,Ignorado
+R02402,01,"A consulta está marcada, mas ainda não foi à consulta"
+R02402,02,Não conseguiu marcar
+R02402,03,Não achou necessário
+R02402,04,Não sabia quem procurar ou aonde ir
+R02402,05,Estava com dificuldades financeiras
+R02402,06,O tempo de espera no serviço de saúde era muito grande
+R02402,07,Não conseguiu marcar consulta pelo plano de saúde
+R02402,08,O serviço de saúde era distante ou teve dificuldade de transporte
+R02402,09,O horário de funcionamento do serviço de saúde era incompatível com as atividades de trabalho ou domésticas
+R02402,10,Outro 
+R02402,99,Ignorado
+R025,08 a 18,Número de anos
+R025,00,Não sabe
+R025,99,Ignorado
+R026,1,Sim
+R026,2,Não
+R026,9,Ignorado
+R027,10 a 60,Número de anos
+R027,00,Não sabe
+R027,99,Ignorado
+R028,1,Sim
+R028,2,Não
+R028,3,Não sei
+R028,9,Ignorado
+R029,1,"Sim, faz atualmente"
+R029,2,"Sim, já fez mas não faz mais"
+R029,3,"Não, nunca fez"
+R029,9,Ignorado
+R030,1,Sim
+R030,2,Não
+R030,9,Ignorado
+R031,1,Sim
+R031,2,Não
+R031,3,Recusou-se a responder
+R031,9,Ignorado
+R032,1,Sim
+R032,2,Não
+R032,9,Ignorado
+R033,1,Sim
+R033,2,Não
+R033,9,Ignorado
+R034,1,Sim
+R034,2,Não
+R034,9,Ignorado
+R035,1,Quer engravidar ou não se incomoda de engravidar
+R035,2,Por motivos religiosos
+R035,3,Não sabe como evitar
+R035,4,Não sabe aonde ir ou quem procurar para lhe dar orientações
+R035,5,Está grávida
+R035,6,Ligou as trompas
+R035,7,O companheiro fez vasectomia
+R035,8,Não tem relações sexuais com homens
+R035,9,Outro
+R03601,1,Sim
+R03601,2,Não
+R03601,9,Ignorado
+R03602,1,Sim
+R03602,2,Não
+R03602,9,Ignorado
+R03603,1,Sim
+R03603,2,Não
+R03603,9,Ignorado
+R03604,1,Sim
+R03604,2,Não
+R03604,9,Ignorado
+R03605,1,Sim
+R03605,2,Não
+R03605,9,Ignorado
+R03606,1,Sim
+R03606,2,Não
+R03606,9,Ignorado
+R03607,1,Sim
+R03607,2,Não
+R03607,9,Ignorado
+R03608,1,Sim
+R03608,2,Não
+R03608,9,Ignorado
+R03609,1,Sim
+R03609,2,Não
+R03609,9,Ignorado
+R03610,1,Sim
+R03610,2,Não
+R03610,9,Ignorado
+R03611,1,Sim
+R03611,2,Não
+R03611,9,Ignorado
+R037,1,"Sim, fazem atualmente"
+R037,2,"Sim, já fizeram"
+R037,3,Nunca fizeram
+R037,9,Ignorado
+R038,1,Há menos de 6 meses
+R038,2,De 6 meses a menos de 1 ano
+R038,3,Há 1 ano ou mais
+R038,9,Ignorado
+S065,1,Sim
+S065,2,Não
+S065,9,Ignorado
+S066,00 a 30,Número de partos
+S066,99,Ignorado
+S06701,1 a 31,Dia
+S06701,99,Ignorado
+S06702,1 a 12,Mês
+S06702,99,Ignorado
+S06703,1908 a 2020,Ano
+S06703,99,Ignorado
+S068,1,Sim
+S068,2,Não
+S068,9,Ignorado
+S06901,1 a 41,Número de semanas
+S06901,99,Ignorado
+S06902,1 a 9,Número de meses
+S06902,99,Ignorado
+S070,1,Uma
+S070,2,Duas
+S070,3,Três
+S070,4,Quatro
+S070,5,Cinco
+S070,6,Seis
+S070,7,Sete ou mais
+S070,8,Não sabe\Não lembra
+S070,9,Ignorado
+S071,1,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família). 
+S071,2,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+S071,3,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+S071,4,Ambulatório de hospital público.
+S071,5,"Consultório particular, clínica privada ou ambulatório de hospital privado."
+S071,6,Pronto-atendimento ou emergência de hospital privado.
+S071,7,No domicílio
+S071,8,Outro serviço
+S071,9,Ignorado
+S072,1,"Sim, todas                  "
+S072,2,"Sim, algumas"
+S072,3,"Não, nenhuma"
+S072,9,Ignorado
+S073,1,"Sim, todas                  "
+S073,2,"Sim, algumas"
+S073,3,"Não, nenhuma"
+S073,9,Ignorado
+S074,1,Médico (a)
+S074,2,Enfermeiro (a)
+S074,3,Técnino (a)/ Auxiliar de enfermagem
+S074,4,Parteira
+S074,5,Outro (a) profissional de saúde
+S074,9,Ignorado
+S075,1,Sim
+S075,2,Não
+S075,9,Ignorado
+S076,1,Sim
+S076,2,Não
+S076,9,Ignorado
+S077,1,Sim
+S077,2,Não
+S077,3,Não sabe/Não lembra
+S07901,1,Todas
+S07901,2,Algumas
+S07901,3,Nenhuma
+S07901,9,Ignorado
+S07902,1,Todas
+S07902,2,Algumas
+S07902,3,Nenhuma
+S07902,9,Ignorado
+S07903,1,Todas
+S07903,2,Algumas
+S07903,3,Nenhuma
+S07903,9,Ignorado
+S07904,1,Todas
+S07904,2,Algumas
+S07904,3,Nenhuma
+S07904,9,Ignorado
+S07905,1,Todas
+S07905,2,Algumas
+S07905,3,Nenhuma
+S07905,9,Ignorado
+S080,1,Sim
+S080,2,Não
+S080,3,Não sabe/Não lembra
+S080,9,Ignorado
+S081,1,Sim
+S081,2,"Não, recebeu apenas após o parto"
+S081,3,"Não, nunca recebeu"
+S081,9,Ignorado
+S082,1,Positivo
+S082,2,Negativo
+S082,3,Recusou-se a responder
+S082,9,Ignorado
+S083,1,"Sim, antes do parto"
+S083,2,"Sim, depois do parto"
+S083,3,Não
+S083,9,Ignorado
+S084,1,Sim
+S084,2,Não
+S084,3,Não sabe/Não lembra
+S084,9,Ignorado
+S085,1,Sim
+S085,2,"Não, recebeu apenas após o parto"
+S085,3,"Não, nunca recebeu"
+S085,4,Não sabe/Não lembra
+S085,5,Não fez o exame
+S085,9,Ignorado
+S086,1,Positivo
+S086,2,Negativo
+S086,3,Recusou-se a responder
+S086,9,Ignorado
+S087,1,Sim
+S087,2,Não
+S087,3,Não sabe/Não lembra
+S087,9,Ignorado
+S088,1,Sim
+S088,2,Não
+S088,3,Não sabe/Não lembra
+S088,9,Ignorado
+S089,1,Sim
+S089,2,"Não, recebeu apenas após o parto"
+S089,3,"Não, nunca recebeu"
+S089,9,Ignorado
+S090,1,Sim
+S090,2,Não
+S090,3,Não sabe/Não lembra
+S090,9,Ignorado
+S091,1,Sim
+S091,2,Não
+S091,9,Ignorado
+S092,1,Sim
+S092,2,"Não, recebeu apenas após o parto"
+S092,3,"Não, nunca recebeu"
+S092,9,Ignorado
+S095,1,Sim
+S095,2,Não
+S095,3,Não sabe/Não lembra
+S095,9,Ignorado
+S096,1,Até 1 semana
+S096,2,Mais de 1 semana a 2 semanas
+S096,3,Mais de 2 semanas
+S096,4,Não sabe/Não lembra
+S096,9,Ignorado
+S097,1,Sim
+S097,2,Não
+S097,3,Não sabe/Não lembra
+S097,9,Ignorado
+S098,1,Sim
+S098,2,Não
+S098,3,Não sabe/Não lembra
+S098,9,Ignorado
+S099,1,Número de doses
+S099,2,Não sabe / Não lembra
+S099,9,Ignorado
+S09901,1 a 5,Número de doses
+S109,1,Sim
+S109,2,Não
+S109,9,Ignorado
+S110,1,Peso em gramas
+S110,2,Não sabe/Não lembra
+S11001,0300 a 7000,Valor do peso ao nascer
+S11001,9999,Ignorado
+S111,1,Médico (a)
+S111,2,Enfermeiro (a)
+S111,3,Outro (a) profissional de saúde
+S111,4,Parteira
+S111,5,Parentes/amigos
+S111,6,Outro
+S111,9,Ignorado
+S112,01,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família). 
+S112,02,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+S112,03,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público.
+"
+S112,04,Hospital público ou maternidade pública
+S112,05,Casa de parto
+S112,06,"Consultório particular, clínica privada ou ambulatório de hospital privado."
+S112,07,"Pronto-atendimento ou emergência de hospital privado
+"
+S112,08,No domicilio
+S112,09,Outro serviço
+S112,99,Ignorado
+S113,1,Sim
+S113,2,Não
+S113,9,Ignorado
+S114,1,Sim
+S114,2,Não
+S114,9,Ignorado
+S115,1,Parto normal/vaginal
+S115,2,Cesariana
+S115,9,Ignorado
+S116,1,Sim
+S116,2,Não
+S116,9,Ignorado
+S117,1,Já tinha parto cesário anterior
+S117,2,Queria ligar as trompas
+S117,3,Não queria sentir dor do parto/por ser mais conveniente
+S117,4,Por escolha do médico durante o pré-natal
+S117,5,Indicação médica por complicação na gravidez ou no trabalho de parto
+S117,6,Indicação médica porque não entrou em trabalho de parto
+S117,7,Outro
+S117,9,Ignorado
+S118,1,Respondeu o número de semanas
+S118,2,Não sabe/Não lembra
+S11801,1 a 43,Semanas
+S11801,99,Ignorado
+S119,1,Sim
+S119,2,Não
+S119,9,Ignorado
+S120,1,Sim
+S120,2,Não
+S120,9,Ignorado
+S121,1,Sim
+S121,2,Não
+S121,9,Ignorado
+S122,1,Anestesia
+S122,2,Outro medicamento
+S122,3,"Outros métodos (banho morno, massagem, bola)"
+S122,4,Não sabe/Não lembra
+S122,9,Ignorado
+S123,1,Sim
+S123,2,Não
+S123,9,Ignorado
+S124,1,Sim
+S124,2,Não
+S124,9,Ignorado
+S125,1,Sim
+S125,2,Não
+S125,9,Ignorado
+S126,1,Sim
+S126,2,Não
+S126,9,Ignorado
+S127,1,Sim
+S127,2,Não
+S127,9,Ignorado
+S128,1,Sim
+S128,2,Não
+S128,9,Ignorado
+S129,1,Um
+S129,2,Dois
+S129,3,Mais de dois
+S129,9,Ignorado
+S130,1,Sim
+S130,2,Não
+S130,9,Ignorado
+S131,1,Sim
+S131,2,Não
+S131,9,Ignorado
+S132,1,Sim
+S132,2,Não
+S132,9,Ignorado
+S133,1,Somente a criança teve alta
+S133,2,A criança faleceu antes da alta
+S133,3,A criança permaneceu internada
+S133,4,Outro
+S133,9,Ignorado
+S134,1,Sim
+S134,2,Não
+S134,9,Ignorado
+S135,1,Não sabia que tinha que fazer/Não foi orientada
+S135,2,Não achou necessário/Não quis fazer
+S135,3,Estava internada
+S135,4,Não conseguiu marcar
+S135,5,Outro
+S135,9,Ignorado
+S136,1,Sim
+S136,2,Não
+S136,3,Não sabe/Não lembra
+S136,9,Ignorado
+S137,1,Não foi receitado por nenhum profissional de saúde
+S137,2,Não conseguiu obter no serviço público de saúde
+S137,3,Não tinha farmácia próxima ou teve dificuldade de transporte
+S137,4,Não conseguiu encontrar o medicamento para comprar na farmácia
+S137,5,Não tinha dinheiro para comprar
+S137,6,Não achou necessário
+S137,9,Ignorado
+S138,1,Sim
+S138,2,Não
+S138,9,Ignorado
+S139,1,Menos de 1 mês
+S139,2,De 1 mês a menos de 2 meses
+S139,3,De 2 meses a menos de 3 meses
+S139,4,3 meses ou mais
+S139,5,Não sabe/Não lembra
+S139,9,Ignorado
+U00204,1,Sim
+U00204,2,Não
+U00204,9,Ignorado
+U00205,1,Sim
+U00205,2,Não
+U00205,9,Ignorado
+U00206,1,Sim
+U00206,2,Não
+U00206,9,Ignorado
+U00207,1,Sim
+U00207,2,Não
+U00207,9,Ignorado
+U00208,1,Sim
+U00208,2,Não
+U00208,9,Ignorado
+U00101,1,3 vezes ou mais por dia
+U00101,2,2 vezes por dia
+U00101,3,1 vez por dia
+U00101,4,Não escovo todos os dias
+U00101,9,Ignorado
+U00401,1,Menos de 3 meses
+U00401,2,De 3 meses a menos de 6 meses
+U00401,3,De 6 meses a menos de 1 ano
+U00401,4,1 ano ou mais
+U00401,5,Nunca trocou
+U00401,9,Ignorado
+U005,1,Muito Boa
+U005,2,Boa
+U005,3,Regular
+U005,4,Ruim
+U005,5,Muito ruim
+U005,9,Ignorado
+U006,1,Nenhum
+U006,2,Leve
+U006,3,Regular
+U006,4,Intenso
+U006,5,Muito intenso
+U006,9,Ignorado
+U00902,01," Limpeza, prevenção ou revisão"
+U00902,02,Dor de dente
+U00902,03, Extração 
+U00902,04," Tratamento dentário (obturação, canal etc.)."
+U00902,05, Problema na gengiva 
+U00902,06, Tratamento de ferida na boca 
+U00902,07, Implante dentário
+U00902,08,Colocação/manutenção de aparelho nos dentes (ortodôntico) 
+U00902,09,Colocação/manutenção de prótese ou dentadura
+U00902,10,Outro
+U00902,99,Ignorado
+U01002,1,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família). 
+U01002,2,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+U01002,3,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+U01002,4,CEO – Centro de Especialidades Odontológicas
+U01002,5,Ambulatório de hospital público.
+U01002,6,"Consultório particular, clínica privada ou ambulatório de hospital privado"
+U01002,7,Pronto atendimento ou emergência de hospital privado.
+U01002,8,Outro serviço
+U01002,9,Ignorado
+U014,1,"Foi direto ao serviço de saúde, sem marcar consulta"
+U014,2,Agendou a consulta previamente
+U014,3,Foi encaminhado(a) ou ajudado(a) por equipe de saúde da família
+U014,4,Foi encaminhado(a) ou ajudado(a) pela Unidade Básica de Saúde
+U014,5,Foi encaminhado(a) por outro serviço ou profissional de saúde
+U014,6,Outro
+U014,9,Ignorado
+U02001,1,Sim
+U02001,2,Não
+U02001,9,Ignorado
+U02101,1,Sim
+U02101,2,Não
+U02101,3,Não sabe/Não lembra
+U02302,1,Não
+U02302,2,"sim,perdi"
+U02302,3,"Sim,perdi todos os dentes de cima"
+U02302,9,Ignorado
+U02303,1 a 32,Dentes
+U02303,99,Ignorado
+U02402,1,Não
+U02402,2,"Sim, perdi"
+U02402,3,"Sim, perdi todos os dentes de baixo"
+U02402,9,Ignorado
+U02403,1 a 32,Dentes
+U02403,99,Ignorado
+U02501,1,Sim
+U02501,2,Não
+U02501,9 ,Ignorado
+Z001,1,Sim
+Z001,2,Não
+Z001,3,Não sabe 
+Z001,9,Ignorado
+Z00101,00 a 32,Número de homens
+Z00101,99,Ignorado
+Z00102,00 a 32,Número de mulheres
+Z00102,99,Ignorado
+Z002,0 a 70,Idade em anos
+Z002,99,Ignorado
+Z003,0 a 70,Idade em anos
+Z003,99,Ignorado
+Z004,1,Sim 
+Z004,2,Não
+Z004,3,Não sabe 
+Z004,9,Ignorado
+Z005,1,"Sim, queria naquele momento"
+Z005,2,"Não, queria esperar mais"
+Z005,3,Não queria ter (mais) filhos
+Z005,9,Ignorado
+Z006,1,Sim 
+Z006,2,Não
+Z006,3,Não sabe 
+Z006,9,Ignorado
+Z007,1,Sim 
+Z007,2,Não
+Z007,3,Não sabe 
+Z007,9,Ignorado
+Z008,1,Sim 
+Z008,2,Não
+Z008,9,Ignorado
+Z009,1,Sim 
+Z009,2,Não
+Z009,9,Ignorado
+Z010,1,Sim 
+Z010,2,Não
+Z010,9,Ignorado
+Z011,1,Sim 
+Z011,2,Não
+Z011,9,Ignorado
+Z012,1,Sim 
+Z012,2,Não
+Z012,9,Ignorado
+Z013,1,Sim 
+Z013,2,Não
+Z013,9,Ignorado
+Z01401,00 a 32,Número de homens
+Z01401,99,Ignorado
+Z01402,00 a 32,Número de mulheres
+Z01402,99,Ignorado
+V001,1,Sim
+V001,2,Não
+V00101,1,Próprio morador
+V00101,2,Entrevistador
+V00201,1,Sim
+V00201,2,Não
+V00202,1,Sim
+V00202,2,Não
+V00203,1,Sim
+V00203,2,Não
+V00204,1,Sim
+V00204,2,Não
+V00205,1,Sim
+V00205,2,Não
+V003,1,Muitas vezes
+V003,2,Algumas vezes
+V003,3,Uma vez
+V006,01,Cônjuge ou companheiro (a) 
+V006,02,Ex-Cônjuge ou ex-companheiro (a)
+V006,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)  "
+V006,04,"Pai, mãe, padrasto ou madrasta"
+V006,05,"Filho(a), enteado(a)"
+V006,06,Irmão(ã)
+V006,07,Outro parente
+V006,08,"Amigo(a)/colega, vizinho(a)"
+V006,09,Empregado (a) em geral 
+V006,10,Patrão/patroa/chefe
+V006,11,Pessoa desconhecida
+V006,12,Policial
+V006,13,Outro 
+V007,1,Residência
+V007,2,Trabalho
+V007,3,"Escola, faculdade ou outro estabelecimento de ensino"
+V007,4,"Bar, restaurante ou similar"
+V007,5,Via pública ou outro local público
+V007,6,Internet/Redes Sociais/Celular
+V007,7,Outro 
+V01401,1,Sim
+V01401,2,Não
+V01402,1,Sim
+V01402,2,Não
+V01403,1,Sim
+V01403,2,Não
+V01404,1,Sim
+V01404,2,Não
+V01405,1,Sim
+V01405,2,Não
+V015,1,Muitas vezes
+V015,2,Algumas vezes
+V015,3,Uma vez
+V018,01,Cônjuge ou companheiro (a)
+V018,02,Ex-Cônjuge ou ex-companheiro (a)
+V018,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a"
+V018,04,"Pai, mãe, padrasto ou madrasta"
+V018,05,"Filho(a), enteado(a"
+V018,06,Irmão(ã)
+V018,07,Outro parente
+V018,08,"Amigo(a)/colega, vizinho(a)"
+V018,09,Empregado (a) em geral 
+V018,10,Patrão/patroa/chefe(a) 
+V018,11,Pessoa desconhecida
+V018,12,Policial
+V018,13,Outro
+V019,1,Residência
+V019,2,Trabalho
+V019,3,"Escola, faculdade ou outro estabelecimento de ensino"
+V019,4,"Bar, restaurante ou similar"
+V019,5,Via pública ou outro local público
+V019,6,Outro
+V02701,1,Sim
+V02701,2,Não
+V02702,1,Sim
+V02702,2,Não
+V02801,1,Sim
+V02801,2,Não
+V02802,1,Sim
+V02802,2,Não
+V029,1,Muitas vezes
+V029,2, Algumas vezes
+V029,3, Uma vez
+V032,01,Cônjuge ou companheiro (a)
+V032,02,Ex-Cônjuge ou ex-companheiro (a
+V032,03,"Parceiro (a), namorado (a), ex-parceiro (a), ex-namorado (a)"
+V032,04,"Pai, mãe, padrasto ou madrasta"
+V032,05,"Filho(a), enteado(a)   "
+V032,06, Irmão(ã)
+V032,07,Outro parente
+V032,08,"Amigo(a)/colega, vizinho(a"
+V032,09,Empregado (a) em geral 
+V032,10,Patrão/patroa/chefe
+V032,11,Pessoa desconhecida
+V032,12,Policial
+V032,13,Outro
+V033,1,Residência
+V033,2,Trabalho
+V033,3,"Escola, faculdade ou outro estabelecimento de ensino"
+V033,4,"Bar, restaurante ou similar"
+V033,5,Via pública ou outro local público
+V033,6,Outro 
+V034,1,Sim
+V034,2,Não
+V03502,1,Sim
+V03502,2,Não
+V03503,1,Sim
+V03503,2,Não
+V036,1,Sim
+V036,2,Não
+V037,1,Sim
+V037,2,Não 
+V038,01,No local
+V038,02, Farmácia.
+V038,03,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família).
+V038,04,"Policlínica pública, PAM (Posto de Assistência Médica) ou Centro de Especialidades público"
+V038,05,"UPA (Unidade de Pronto Atendimento), outro tipo de pronto atendimento público (24 horas), pronto-socorro ou emergência de hospital público."
+V038,06,Ambulatório de hospital público.
+V038,07,"Consultório particular, clínica privada ou ambulatório de hospital privado."
+V038,08,Pronto atendimento ou emergência de hospital privado.
+V038,09, No domicílio
+V038,10,Outro serviço
+V039,1,Sim
+V039,2,Não
+T001,1,Sim
+T001,2,Não
+T002,1,Sim
+T002,2,Não
+T003,1,Sim
+T003,2,Não
+T004,1,Sim
+T004,2,Não
+T005,1,Sim
+T005,2,Não
+T00601,1,Sim
+T00601,2,Não
+T00602,1,Sim
+T00602,2,Não
+T00603,1,Sim
+T00603,2,Não
+T00604,1,Sim
+T00604,2,Não
+T00605,1,Sim
+T00605,2,Não
+T00606,1,Sim
+T00606,2,Não
+Y001,1,Idade em anos   
+Y001,2,Nunca teve relações sexuais 
+Y001,3,Não sabe/Não lembra 
+Y001,4,Recusou-se a responder 
+Y00101,0 a 130,Idade (em anos)
+Y002,1,Sim 
+Y002,2,Não 
+Y002,3,Recusou-se a responder 
+Y003,1,Sempre
+Y003,2,Às vezes 
+Y003,3,Nenhuma  vez
+Y003,4,Recusou-se a responder 
+Y004,1,Camisinha masculina 
+Y004,2,Camisinha feminina 
+Y004,3,Não usou nenhuma 
+Y004,4,Não sabe/Não lembra 
+Y004,5,Recusou-se a responder
+Y005,1,Confia parceiro(a)
+Y005,2,Não gosta de ter relações com camisinha
+Y005,3,O(a) parceiro(a) não quis usar
+Y005,4,Não deu tempo
+Y005,5,Usou outro método
+Y005,6,Quer ter filhos
+Y005,7,Outro motivo 
+Y005,8,Não sabe/Não lembra 
+Y005,9,Recusou-se a responder
+Y006,1,"Sim, camisinha masculina    "
+Y006,2,"Sim, camisinha feminina      "
+Y006,3,Não
+Y006,4,Não sabe/Não lembra 
+Y006,5,Recusou-se a responder      
+Y007,1,Não preciso/não quero/prefiro comprar
+Y007,2,Não sabia que podia obter nesses lugares
+Y007,3,O serviço de saúde era distante ou teve dificuldade de transporte
+Y007,4,O tempo de espera no serviço de saúde é muito grande/Atendimento era ruim
+Y007,5,Outro motivo
+Y008,1,Heterosexual
+Y008,2,Bissexual
+Y008,3,Homosexual
+Y008,4,Outra orientação
+Y008,5,Não sabe 
+Y008,6,Recusou-se a responder
+H001,1,Até 15 dias
+H001,2,Mais de 15 dias até 1 mês
+H001,3,Mais de 1 mês até 6 meses
+H001,4,Mais de 6 meses até 1 ano
+H001,5,Há mais de 1 ano
+H001,9,Ignorado
+H002,1,Sim
+H002,2,Não
+H002,9,Ignorado
+H003,1,Acidente ou lesão
+H003,2,Continuação de tratamento ou terapia
+H003,3,Consulta pré-natal
+H003,4,Exame médico periódico
+H003,5,"Outro exame médico (admissional, para carteira de motorista, etc"
+H003,6,Problema de saúde mental
+H003,7,Doença ou outro problema de saúde
+H003,8,Outro (Especifique:__)
+H003,9,Ignorado
+H004,1,Unidade básica de saúde (posto ou centro de saúde ou unidade de saúde da família)
+H004,2,"Centro de Especialidades, Policlínica pública ou PAM – Posto de Assistência Médica"
+H004,3,CAPS – Centro de Atenção Psicossocial
+H004,4,UPA (Unidade de Pronto Atendimento)
+H004,5,Outro tipo de Pronto Atendimento Público (24 horas)
+H004,6,Pronto-socorro ou emergência de hospital público
+H004,7,Hospital público/ambulatório
+H004,8,Consultório particular ou clínica privada
+H004,9,Ambulatório ou consultório de empresa ou sindicato
+H004,10,Pronto-atendimento ou emergência de hospital privado
+H004,11,"No domicílio, com médico particular"
+H004,12,"No domicílio, com médico da equipe de saúde da família"
+H004,13,Outro (Especifique:__)
+H004,99,Ignorado
+H005,1,Sim
+H005,2,Não
+H005,9,Ignorado
+H006,1,Sim
+H006,2,Não
+H006,9,Ignorado
+H007,1,Sim
+H007,2,Não
+H007,9,Ignorado
+H008,4,Com certeza sim
+H008,3,Provavelmente sim
+H008,2,Provavelmente não
+H008,1,Com certeza não
+H008,5,Não sabe/Não lembra
+H008,9,Ignorado
+H009,4,Com certeza sim
+H009,3,Provavelmente sim
+H009,2,Provavelmente não
+H009,1,Com certeza não
+H009,5,Não sabe/Não lembra
+H009,9,Ignorado
+H010,4,Com certeza sim
+H010,3,Provavelmente sim
+H010,2,Provavelmente não
+H010,1,Com certeza não
+H010,5,Não sabe/Não lembra
+H010,9,Ignorado
+H011,4,Com certeza sim
+H011,3,Provavelmente sim
+H011,2,Provavelmente não
+H011,1,Com certeza não
+H011,5,Não sabe/Não lembra
+H011,9,Ignorado
+H012,4,Com certeza sim
+H012,3,Provavelmente sim
+H012,2,Provavelmente não
+H012,1,Com certeza não
+H012,5,Não sabe/Não lembra
+H012,9,Ignorado
+H013,4,Com certeza sim
+H013,3,Provavelmente sim
+H013,2,Provavelmente não
+H013,1,Com certeza não
+H013,5,Não sabe/Não lembra
+H013,9,Ignorado
+H014,4,Com certeza sim
+H014,3,Provavelmente sim
+H014,2,Provavelmente não
+H014,1,Com certeza não
+H014,5,Não sabe/Não lembra
+H014,9,Ignorado
+H015,1,Sim
+H015,2,Não
+H015,3,Não sabe/Não lembra
+H015,9,Ignorado
+H016,4,Com certeza sim
+H016,3,Provavelmente sim
+H016,2,Provavelmente não
+H016,1,Com certeza não
+H016,5,Não sabe/Não lembra
+H016,9,Ignorado
+H017,4,Com certeza sim
+H017,3,Provavelmente sim
+H017,2,Provavelmente não
+H017,1,Com certeza não
+H017,5,Não sabe/Não lembra
+H017,9,Ignorado
+H018,4,Com certeza sim
+H018,3,Provavelmente sim
+H018,2,Provavelmente não
+H018,1,Com certeza não
+H018,5,Não sabe/Não lembra
+H019,4,Com certeza sim
+H019,3,Provavelmente sim
+H019,2,Provavelmente não
+H019,1,Com certeza não
+H019,5,Não sabe/Não lembra
+H019,9,Ignorado
+H020,4,Com certeza sim
+H020,3,Provavelmente sim
+H020,2,Provavelmente não
+H020,1,Com certeza não
+H020,5,Não sabe/Não lembra
+H020,9,Ignorado
+H021,4,Com certeza sim
+H021,3,Provavelmente sim
+H021,2,Provavelmente não
+H021,1,Com certeza não
+H021,5,Não sabe/Não lembra
+H021,9,Ignorado
+H022,4,Com certeza sim
+H022,3,Provavelmente sim
+H022,2,Provavelmente não
+H022,1,Com certeza não
+H022,5,Não sabe/Não lembra
+H022,9,Ignorado
+H023,4,Com certeza sim
+H023,3,Provavelmente sim
+H023,2,Provavelmente não
+H023,1,Com certeza não
+H023,5,Não sabe/Não lembra
+H023,9,Ignorado
+H024,4,Com certeza sim
+H024,3,Provavelmente sim
+H024,2,Provavelmente não
+H024,1,Com certeza não
+H024,5,Não sabe/Não lembra
+H024,9,Ignorado
+H025,4,Com certeza sim
+H025,3,Provavelmente sim
+H025,2,Provavelmente não
+H025,1,Com certeza não
+H025,5,Não sabe/Não lembra
+H025,9,Ignorado
+H026,4,Com certeza sim
+H026,3,Provavelmente sim
+H026,2,Provavelmente não
+H026,1,Com certeza não
+H026,5,Não sabe/Não lembra
+H026,9,Ignorado
+H027,4,Com certeza sim
+H027,3,Provavelmente sim
+H027,2,Provavelmente não
+H027,1,Com certeza não
+H027,5,Não sabe/Não lembra
+H027,9,Ignorado
+H028,4,Com certeza sim
+H028,3,Provavelmente sim
+H028,2,Provavelmente não
+H028,1,Com certeza não
+H028,5,Não sabe/Não lembra
+H028,9,Ignorado
+H029,4,Com certeza sim
+H029,3,Provavelmente sim
+H029,2,Provavelmente não
+H029,1,Com certeza não
+H029,5,Não sabe/Não lembra
+H029,9,Ignorado
+H030,4,Com certeza sim
+H030,3,Provavelmente sim
+H030,2,Provavelmente não
+H030,1,Com certeza não
+H030,5,Não sabe/Não lembra
+H030,9,Ignorado
+W001,1,Realizada
+W001,2,Recusa
+W001,3,Morador não encontrado
+W001,4,Não realizada por outro motivo
+W001,9,Ignorado
+W00101,20 a 200,Quilogramas
+W00101,999,Erro
+W00102,20 a 200,Quilogramas
+W00102,999,Erro
+W00103,20 a 200,Quilogramas
+W00103,999,Erro
+W00201,110 a 210,Centímetros
+W00201,999,Erro
+W00202,110 a 210,Centímetros
+W00202,999,Erro
+W00203,110 a 210,Centímetros
+W00203,999,Erro
+V0028,5 dígitos e 8 casas decimais,Peso do domicílio e dos moradores com correção de não entrevista sem calibração pela projeção de população
+V0029,5 dígitos e 8 casas decimais,Peso do morador selecionado com correção de não entrevista sem calibração pela projeção de população para morador selecionado
+V0030,8 dígitos e 8 casas decimais,Peso do morador selecionado para antropometria com correção de não entrevista sem calibração pela projeção de população para morador selecionado para antropometria
+V00281,5 dígitos e 8 casas decimais,Peso do domicílio e dos moradores com correção de não entrevista com calibração pela projeção de população - Usado no cálculo de indicadores de domicílio e moradores
+V00291,5 dígitos e 8 casas decimais,Peso do morador selecionado com correção de não entrevista com calibração pela projeção de população para morador selecionado - Usado no cálculo de indicadores de morador selecionado
+V00301,8 dígitos e 8 casas decimais,Peso do morador selecionado para antropometria com correção de não entrevista com calibração pela projeção de população para morador selecionado para antropometria - Usado no cálculo de indicadores de antropometria
+V00292,8 dígitos e 8 casas decimais,Projeção da população obtida com os dados dos moradores dos domicílios da pesquisa - Só aplicável para domicílios com entrevista realizada para morador selecionado
+V00302,8 dígitos e 8 casas decimais,Projeção da população obtida com os dados dos moradores dos domicílios da pesquisa - Só aplicável para domicílios com antropometria aferida para morador selecionado
+VDC001,01 a 30,Pessoas
+VDC003,01 a 30,Pessoas
+VDD004A,1,Sem instrução
+VDD004A,2,Fundamental incompleto ou equivalente
+VDD004A,3,Fundamental completo ou equivalente
+VDD004A,4,Médio incompleto ou equivalente
+VDD004A,5,Médio completo ou equivalente
+VDD004A,6,Superior incompleto ou equivalente
+VDD004A,7,Superior completo 
+VDE001,1,Pessoas na força de trabalho
+VDE001,2,Pessoas fora da força de trabalho
+VDE002,1,Pessoas Ocupadas 
+VDE002,2,Pessoas desocupadas 
+VDE014,1,"Agricultura, pecuária, produção florestal, pesca e aquicultura "
+VDE014,2,Indústria geral
+VDE014,3,Construção
+VDE014,4,"Comércio, reparação de veículos automotores e motocicletas"
+VDE014,5,"Transporte, armazenagem e correio "
+VDE014,6,Alojamento e alimentação 
+VDE014,7,"Informação, comunicação e atividades financeiras, imobiliárias, profissionais e administrativas"
+VDE014,8,"Administração pública, defesa e seguridade social "
+VDE014,9,"Educação, saúde humana e serviços sociais"
+VDE014,10,Outros Serviços
+VDE014,11,Serviços domésticos
+VDE014,12,Atividades maldefinidas
+VDF002,00000000 a 99999999,Reais
+VDF003,00000000 a 99999999,Reais
+VDF004,1,Até ¼ salário mínimo
+VDF004,2,Mais de ¼ até ½ salário mínimo
+VDF004,3,Mais de ½ até 1 salário mínimo
+VDF004,4,Mais de 1 até 2 salários mínimos
+VDF004,5,Mais de 2 até 3 salários mínimos
+VDF004,6,Mais de 3 até 5 salários mínimos
+VDF004,7,Mais de 5 salários mínimos
+VDL001,01 a 31,Idade (em meses)
+VDL001,99,Ignorado
+VDM001,1,Menos de 30 minutos
+VDM001,2,De 30 minutos até menos de 1 hora
+VDM001,3,De 1 hora até menos de 2 horas
+VDM001,4,2 horas ou mais
+VDP001,1,Legal
+VDP001,2,Ilegal
+VDP001,3,Não classificado
+VDR001,1,Ligadura das trompas (laqueadura ou esterilização feminina)
+VDR001,2,Vasectomia do parceiro (esterilização masculina)
+VDR001,3,DIU (dispositivo intrauterino)
+VDR001,4,Injeções contraceptivas    
+VDR001,5,Pílula anticoncepcional    
+VDR001,6,Camisinha masculina    
+VDR001,7,"Outro método moderno (camisinha feminina, pílula do dia seguinte,implante, espermicida (creme/óvulo), diafragma, adesivo e anel)"
+VDR001,8,Tabelinha/ Billings    
+VDR001,9,Outro método tradicional    
