@@ -13,3 +13,6 @@ atrasado 1 para sim e 0 para não
 distancia em km
 qtd semaforos
 período 1 manhã 0 tarde
+# pns2019_idosos
+Microdados da PNS 2019 (IBGE) filtrados para pessoas com 60+ anos, com notebook para o Colab. Ver `pns2019_idosos/README.md`.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrianomanicoba/dados/blob/main/pns2019_idosos/PNS2019_idosos.ipynb)
