@@ -26,6 +26,8 @@ dic_cat = pd.read_csv(BASE + "dicionario_categorias.csv", dtype=str)
 
 Clique no botão acima. A primeira célula carrega a base pronta; as seções seguintes trazem conferências e exemplos de análise ponderada.
 
+Em R, use o script `pns2019_idosos.R` (pacote `survey`): ele carrega a base, aplica os dicionários e monta o desenho amostral.
+
 Para regenerar a base a partir dos arquivos originais do IBGE:
 
 ```python
