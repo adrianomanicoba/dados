@@ -28,6 +28,14 @@ dic_cat = pd.read_csv(BASE + "dicionario_categorias.csv", dtype=str)
 idosos <- read.csv("https://raw.githubusercontent.com/adrianomanicoba/dados/main/pns2019_idosos/pns2019_idosos.csv")
 ```
 
+Versão com nomes descritivos nas colunas (código do IBGE + resumo da pergunta, ex.: `C008_idade_morador_data_referencia`, `K001_grau_dificuldade_comer_sozinho_prato`):
+
+```r
+idosos <- read.csv("https://raw.githubusercontent.com/adrianomanicoba/dados/main/pns2019_idosos/pns2019_idosos_nomeado.csv")
+```
+
+A coluna `nome` do `dicionario_variaveis.csv` liga cada código ao nome usado nesse arquivo.
+
 (`pns2019_idosos.csv` tem ~65 MB, sem compressão; o `.csv.gz` tem o mesmo conteúdo em 7 MB.)
 
 ## Uso no Colab
